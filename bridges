@@ -2353,6 +2353,7 @@
 [ HF: CE4DFC6C80F60B374236233ED8CB181E4BC334A1 ]-[ NI: bridge61 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.8 on Linux ]-[ AB: 6.79 MB ]
 [ HF: CE4F4AB2C71E68C2E23DF92DB0EA3F3F34443C85 ]-[ NI: manxnz ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: 0x8714DC224A79053C Aidan Gauland <aidalgol+torrc@fastmail.net> ]-[ PL: Tor 0.4.5.10 on Linux ]-[ AB: 12 kB ]
 [ HF: CE78C060B53ECE970E11A1BF2593702F8FC4C1A6 ]-[ NI: LOLA ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.6.8 on Linux ]-[ AB: 55 kB ]
+[ HF: CE9C69C6EFBE7A6D004264DB523D01490F3878C0 ]-[ NI: meanjollies ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <karen (at) p.izza.party> ]-[ PL: Tor 0.4.7.8 on Linux ]-[ AB: NAN B ]
 [ HF: CEA33D1A8869DCB33EB19BF462179ED415838996 ]-[ NI: tor2novgnet ]-[ TR: obfs3, obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Igor Novgorodov <igor AT novg DOT net> ]-[ PL: Tor 0.4.7.8 on Linux ]-[ AB: 4.21 MB ]
 [ HF: CEAC4DACD767C0DCE050964805011A640DE3EE82 ]-[ NI: BridgeyMcBridgeFace ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: evan@evansmith.info ]-[ PL: Tor 0.4.7.7 on Linux ]-[ AB: 737 kB ]
 [ HF: CECFB3CF7A1D8F0538AAADA4C15B6949674389C8 ]-[ NI: RussoTuristo ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <justrandomguy43@protonmail.com> ]-[ PL: Tor 0.4.8.0-alpha-dev on Linux ]-[ AB: 1.71 MB ]
