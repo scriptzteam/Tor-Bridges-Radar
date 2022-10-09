@@ -1001,6 +1001,7 @@
 [ HF: 534759A04DB603994A7824930F18035ECB82DF63 ]-[ NI: MeasureOfAMan ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <admin-tor-20221008@bfccomputing.com> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 534AC52710A217FDF7015887F99E970EC2FEF765 ]-[ NI: FuschiaIronNumbat ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 534DDA4FA03BC0C5027AED0D0BA2875BE44733AA ]-[ NI: relaymebridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: ponkio@proton.me ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: 53798DF8833B5FD7BD748BC8200D47FB0D11812F ]-[ NI: freebridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 53A229A6FE2D4C1D68A3A711EE83062BB3F28294 ]-[ NI: LOLA ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.6.8 on Linux ]
 [ HF: 53A261C42A3C846CFDAD8DC65DE7C6C00DDD25C4 ]-[ NI: OprObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: 3q2kbcbp@duck.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 53ABAB9A45134DD1D3B3DCF53BFA35BE4E856EC2 ]-[ NI: KauBridgeDot ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: abuse-tor@lists.kau.se ]-[ PL: Tor 0.4.7.10 on Linux ]
