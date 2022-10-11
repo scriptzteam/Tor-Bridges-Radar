@@ -839,6 +839,7 @@
 [ HF: 4746239470221001C6F77CEDFEC737C157195825 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: cadmium-flow-0g@icloud.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 478253176779758BEA1D4A5AA0B8C779C83734B0 ]-[ NI: shadowpit ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN: F939E7F006C4D5C3 ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 4796E66E9662881EDE6CA8E4B4DACBEFAE2CAF02 ]-[ NI: UnredactedDotOrg1 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: <admin@unredacted.org> ]-[ PL: Tor 0.4.7.7 on Linux ]
+[ HF: 47B1D23ECFC5E6124FBA5377A68F4B059D0A8005 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.6.10 on Linux ]
 [ HF: 47C985A5073FD16E4CF3FC9B04758730D13B7064 ]-[ NI: MAOI ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.6.8 on Linux ]
 [ HF: 47CBC7EFBE48F218D48E31CFA5F7FC352EA53D79 ]-[ NI: nux05 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: wyke <at> lighthouse <dot> my <dot> id ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: 47CD2AFFB4DBE7F52E7B02AABF6276D5022CB753 ]-[ NI: Rincewind ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.7 on Windows 8 [or later] ]
