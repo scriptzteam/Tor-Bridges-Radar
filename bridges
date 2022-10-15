@@ -2229,7 +2229,6 @@
 [ HF: BD05679A270633AEAF25D96AE29FA7D7C572D037 ]-[ NI: ElephantBridgeES2 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: BD36328306B07A1E2F6E9C29968184668790BDB7 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: BD3DC999BAFC996B055215F1DAEF9BAFC5F50F9D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: tine+tor@tjo.space ]-[ PL: Tor 0.4.6.8 on Linux ]
-[ HF: BD5AFFF1BB247250E6362EFDAD93B79DAB02DC98 ]-[ NI: Docker ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: somebody@s.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: BD678368390B784A0316BEA2B5110A3F3F3C36FD ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: me@example.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: BD7640FD1C3B62454AB7A75E60AF6CCC37326BB0 ]-[ NI: dhbr53 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Tor-Admins <toooor AT all DOT de> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: BD8384EACA359BE0F9368A3525B1C89D97F6E857 ]-[ NI: RabbitHole ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: ethejumper420@criptext.com ]-[ PL: Tor 0.4.7.10 on Linux ]
