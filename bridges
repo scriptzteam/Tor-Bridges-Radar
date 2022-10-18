@@ -1221,7 +1221,7 @@
 [ HF: 690E7A6B969C23906CD6A9D3EE05ADCC88B2195F ]-[ NI: Thorpi2 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: majorheunemann@gmx.de ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: 691134436BA367C5E649101E7DC19F772146CD3D ]-[ NI: 104201 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: <y944561873@gmail.com> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 6921ABD813359D0C9AB6FED36F8FD108DE02C297 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.6.8 on Linux ]
-[ HF: 694020F3B9C20F230AE2466BC272A29EC55F105C ]-[ NI: NetBridge03 ]-[ TR:  ]-[ BD:  ]-[ BL: ru ]-[ CN: tor4@example.org ]-[ PL: Tor 0.4.7.9 on Linux ]
+[ HF: 694020F3B9C20F230AE2466BC272A29EC55F105C ]-[ NI: NetBridge02 ]-[ TR:  ]-[ BD:  ]-[ BL: ru ]-[ CN: tor4@example.org ]-[ PL: Tor 0.4.7.9 on Linux ]
 [ HF: 6950FF2363E5CDE6E7C3865D5FCE048076040BBB ]-[ NI: bridge21 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 69A76DCE611A6396D856359366E9AEB5034F3948 ]-[ NI: HvaldosObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: torrelays@hvaldos.de ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: 69A87A4EB0CC9F13232B6474E18ABB58E85EDD09 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Z ]-[ PL: Tor 0.4.7.10 on Linux ]
