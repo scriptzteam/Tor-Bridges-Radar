@@ -1816,6 +1816,7 @@
 [ HF: 9A8F384D41311727BD4F96AC17F1FF4BEDD521CC ]-[ NI: marimproxy ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: mateus.marim@ice.ufjf.br ]-[ PL: Tor 0.4.6.10 on Linux ]
 [ HF: 9A931BF3C37EF3275FCC232EF9CF800C90FC4263 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor@opentree.cz ]-[ PL: Tor 0.4.7.8 on Linux ]
 [ HF: 9AC2D6FDDB1F5A9DA8C777330347A55471903A7A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: microfab899@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: 9AC9E2EBA2B9F3BE691EAC4721666881DD43AADA ]-[ NI: Obfsly ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor@moritz-j-schmidt.de ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 9ACFB95258AD134CBDFC0EE1EFE5A064960F4A2F ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: wwou7p8p1@mozmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 9B246C78519B390EE4C87FF92248D6FF1D50709A ]-[ NI: kanabo ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: kanabo-reports@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 9B263F9788CBEA6338B7B26EF1A1AFFE186A09B5 ]-[ NI: yeuhdeber ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Z ]-[ PL: Tor 0.4.7.10 on Linux ]
