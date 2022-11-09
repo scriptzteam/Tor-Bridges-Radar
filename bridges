@@ -1678,6 +1678,7 @@
 [ HF: 96C147DD5B54517960DD8B9042FDBD5B9FAC6418 ]-[ NI: bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: taheri.mas@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 96D0752C359CDB539892EB7092367F19DD2DE8DF ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.8 on Linux ]
 [ HF: 96DFCF19B85DE856E5EFFCF37176660DC86357FF ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: 96EBB74F3D4852EB012351E3BFAB509F918C01EC ]-[ NI: ForPrivacyNETbr36 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck ciissversion:2 ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 96EFF1FAE3E21B0E6F19F488CF6F1CEF4B347672 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.6.7 on Linux ]
 [ HF: 96FEE0D20C35FC619BBD16F25F5B9906455405FD ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: 97069D656C6EE2FB32C38E2C3B3167E8ECD52C5A ]-[ NI: Hernandez ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: Hernandez <hernandez AT pussemail d0t com> ]-[ PL: Tor 0.4.6.9 on Linux ]
