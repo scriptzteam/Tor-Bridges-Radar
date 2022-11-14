@@ -2820,8 +2820,6 @@
 [ HF: FCDBDC73EBA64005F1C4D920A63530BEF3C95483 ]-[ NI: swadhin ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: anwesha@das.community ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FCDFD1C95A5602FA2F1EE1289FA94D48D0450EA4 ]-[ NI: ring0se ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: <bridge@ring0.se> ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: FCFBA5472D82195B6FDDA0141588D4BB2B278946 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: h_schneider_aZahgh8u@spambog.de ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: FD5844DC23BC1D6138F143C336A287C0190B6D3F ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: FD5E5931EDE97F252A3C6A0498257A87786A233E ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FD6607D69F94BE7CE24C4AC6292255ACF13EADAA ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: test@test.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FD6C873A6E8168565C6B043F8A17C81F4EDE1C7B ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.11 on Linux ]
 [ HF: FD70F766CA2F2EC5D8CFE7799CA03EF6DE0A7512 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: yakaz0@web.de ]-[ PL: Tor 0.4.7.7 on Linux ]
