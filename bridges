@@ -2025,7 +2025,6 @@
 [ HF: B6EEA85F5EB541156D3F21B91D230A994C02864E ]-[ NI: bayer ]-[ TR:  ]-[ BD: https ]-[ BL: ru ]-[ CN: 0x4FD1AEC3365AF7BF Petr Pisar <petr.pisar@atlas.cz> ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: B71C90D1BEBC53A60ACA7E778FBEFC1D894DB743 ]-[ NI: Luttor ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: 0x82A9F369F3F3A95D06CDF6B635EB19FFFD22C9D1 edn0308 AT web dot de ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: B71CA6693C4AE9E12FF0E1F3E2CDBBA0D6637D52 ]-[ NI: rondieBridge11 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: tor@rondie.nl ]-[ PL: Tor 0.4.7.11 on Linux ]
-[ HF: B74E9649ECF30BFF225B455421D32E3310A0A1B1 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.6.10 on Linux ]
 [ HF: B75F431E1FB68E272A454F5C9741537ABB61008D ]-[ NI: AntiAutocrat ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: NoContact ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: B77A12910F38CA7229FD93D515E2FCD38A539937 ]-[ NI: Init6SoleusBridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: 0xEDF962D7 Init6 Consulting <admin AT init6 DOT eu> ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: B792100F143141DA4A2EAEBD8219E783227F15A7 ]-[ NI: NewYorkChickadee ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.11 on Linux ]
