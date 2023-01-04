@@ -465,7 +465,6 @@
 [ HF: 2CECBF23D0E6FCF005845FDA5921F6E2CE9618E4 ]-[ NI: QeruBridgeL ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: Neel Chauhan <neel AT neelc DOT org> ]-[ PL: Tor 0.4.7.10 on FreeBSD ]
 [ HF: 2D19033F7FDE095E7797DBA1605A28BBCA49C369 ]-[ NI: NetWoine ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <cooli@ich-will-net.de> ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: 2D236D25D7100EDCE316AB7965EC6C72F90990CB ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: bottomofpagechadorg ]-[ PL: Tor 0.4.5.7 on Linux ]
-[ HF: 2D3063A54AD6286B769B6DAA1EF07D6703F88A44 ]-[ NI: ProjectLightSnow ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: lightsnow@seed.moe ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: 2D348D4E5942F97E2DFED524218286FFAFB60C86 ]-[ NI: Rhombus ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: admin dot tor-operator at firemail dot tech pgp:70086FF72B1F88142D6E360C5F23284414892EFB ]-[ PL: Tor 0.4.5.14 on Linux ]
 [ HF: 2D5F7855EA71C2FD741B2F2FE75DD1394771E05E ]-[ NI: torrelay949238 ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: tor.relay.949238@gmail.com ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: 2D618DFD6FCCB3E1DA9B2EE95924577BAA963A01 ]-[ NI: JFifersRelay ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: jllijfvr@tuta.io ]-[ PL: Tor 0.4.5.10 on Linux ]
