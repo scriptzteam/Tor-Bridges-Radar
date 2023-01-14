@@ -2398,7 +2398,6 @@
 [ HF: CCF0EBBA9FB7D771A58C2B3048F24F06E638E194 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: CD07E51651E0ACACFC6A1B77323E1799DC004716 ]-[ NI: privacyNotMalicious ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: Ryan ryanjjohnson85@protonmail.com ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: CD1201684937C2D3B2ED99C3EBCC58F3C39AE674 ]-[ NI: 08eRPfaL2Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: 08eRPfaL2Relay@pm.me fingerprint: 995a75b7c4aa37f574322488e461c1ec1341166a matrix:@sean:nognu.de ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: CD1D77D1958C90B8595998BD10D1D5BA46E345DC ]-[ NI: Sr2TgBr862 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hi ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: CD85CA5937F89C683A464ADD29883DC88BA91F13 ]-[ NI: lizard ]-[ TR: obfs2, obfs3, obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: tails-sysadmins@boum.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: CD9F246D723C2E79CB3808B30985FBD4AA491B2E ]-[ NI: andree1493 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: andree1493@protonmail.com ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: CDA87501D2AB543FCE9BBF5277728C052B6A78A3 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: fred@dead.com ]-[ PL: Tor 0.4.7.10 on Linux ]
