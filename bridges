@@ -433,7 +433,6 @@
 [ HF: 28FEB5C327E8A4F4BDC933AD195C0E6B88009D59 ]-[ NI: QeruBridgeI ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Neel Chauhan <neel AT neelc DOT org> ]-[ PL: Tor 0.4.7.12 on FreeBSD ]
 [ HF: 2907AC87893797A2B9F5B7A6C2178BC40BAFD053 ]-[ NI: Aramis58 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: email:torix@protonmail.com url:https://torix-relays.org proof:uri-rsa hoster:alexhost.com ciissversion:2 ]-[ PL: Tor 0.4.7.12 on FreeBSD ]
 [ HF: 291C40EF6307F87FF0912DE64B95205186C5196D ]-[ NI: cnRunsTor ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: <toradmin@niekel.net> ]-[ PL: Tor 0.4.7.11 on Linux ]
-[ HF: 2923457DCC67707A2F027CD67271F06472F3696E ]-[ NI: MetaCortex ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on OpenBSD ]
 [ HF: 294ECDECB9514ADE673DA518FD18608274AAF3D8 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.6.8 on Linux ]
 [ HF: 295F0661F557BF60FEA0EDEAB44353721512BEE1 ]-[ NI: BobsTorServer ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: bcoufal@onyx.cz ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 2972052DFC968565A1D9968C6D75A74A680DD036 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: xepxec@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
