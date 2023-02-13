@@ -1821,6 +1821,7 @@
 [ HF: A91E81FD65F6E6AFC75BBFCAEDB59C89AF1C0BD9 ]-[ NI: trachtenberg4 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: 0x415C653413B43475 ]-[ PL: Tor 0.4.7.10 on OpenBSD ]
 [ HF: A924F8D67EB3AE82545F1F444475D9AB6FA63B99 ]-[ NI: LMTest03 ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.5.16 on Linux ]
 [ HF: A934C9EF8377FB7018518139ABCC990AC8F304F4 ]-[ NI: newbox ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: 0xF1ADC390 Random Tor Node Operator <tor at unterderbruecke (dot) de> bitcoin:15xmQjbQNQpwYLbVCUMdPL2ies4S8kmXNm ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: A958AD7E59CD9841F9EAC108E6FBFBF12699B9B4 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: jon@epluribusunix.net ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: A97ADB6CB400E8C8B846570ACC482B966F935581 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: A9880B418CD1F0AE847B62D9E667F3DA99F87D3A ]-[ NI: Ibis5 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: ibis@bahnhof.se ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: A989F67A82BE9034E1EFCB36C0B0552DD1E176F3 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.12 on Linux ]
