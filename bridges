@@ -2352,6 +2352,7 @@
 [ HF: F2C773CCCA9A795F500529F8EE81A22FE1A3D269 ]-[ NI: NoTrollBridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: <tor.bridge@diektronics.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: F2EF5053659066B0587F6E3E96AE6E9227DE311F ]-[ NI: LuxCen132 ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: F308591FCA367F9014DCB6BDBC6D1D811E28EFF2 ]-[ NI: FreeApo ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: F30CDA137B4908355BDCBF35D673FCB6CBF97EB0 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: F338AB5DECB854572EA572EB67980721DE00BAA3 ]-[ NI: 430edc7cc90ccdba25 ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: F33D74F6C71C2CE13921CDF6828CE4B00B5D12DB ]-[ NI: ProtokollaTorBridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: a3b6a92c-7769-435c-8b3e-3767de92f289@anon.imap.fi ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: F3A738B2A042BC62EAB5001C66351F77F59E679B ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: adein0@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
