@@ -332,7 +332,6 @@
 [ HF: 25BDB259EF921B14481E11696BF05250FAFCB676 ]-[ NI: apobfs4cluster ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: 0xDA9FCCDBCE72336AE85321E355AE33FDAA0DA2EA Alden Page <tor-relays AT alden dot page> ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: 25C5BD7833627CBE79908A53C517CD802825A5D7 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 25CED36A544FD2A0DEB99F82CA1A88E49918CE44 ]-[ NI: Algar ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.11 on Linux ]
-[ HF: 26255D049574CCDAC05ADEC2E496668FA87C8D19 ]-[ NI: sjalotte ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Random Person <tor AT sthcerbyuh (backwrds) dot re > ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 2642F7D925A87B5C32EC265DE2944DD4F703FD65 ]-[ NI: Sr2Bridge55 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 2648496D081C865A1D2411818AC2008D38AF76AC ]-[ NI: ForPrivacyNETbr31 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 2671B0169CCFD6E8BC63C884926B0AF4012FAB27 ]-[ NI: dzenspace ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.5.16 on Linux ]
