@@ -889,6 +889,7 @@
 [ HF: 5536A4167651040D9F0C3A86C4BFC186EE72FD96 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: scobo@gmx.li ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 556CFDC22CE86F9BCA48C15A2097F26D9DF54238 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 557B0F4FE028704274D8B434B382C90B8978A7F9 ]-[ NI: tsg0o0 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: support@tsg0o0.com ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 558CF22C60C1CDC6F4BC3BCAD8D9D83C894FB3C5 ]-[ NI: baka ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 55A36AC213EE2154B32D0ABA4DE59CDEE33ECE1C ]-[ NI: BirdNest ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <ryanong@gmail.com> ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: 55C973C30F919693DD2FBFDBB7BA42854B453D5C ]-[ NI: Torriffic ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: <jason+tor AT zarin DOT org> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 55CC6DDE5FB0F7F333709654F84ABDECAC532ECA ]-[ NI: exbKR ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: tor(at)0x2142(dot)com - bitcoin:bc1qhd6j5zdcc007q42nsretgll4nztydqc2tf2h02 - litecoin:ltc1qh53rz35fcjnd99ethgkegx3te7lk9ta6eg5an5 ]-[ PL: Tor 0.4.5.10 on OpenBSD ]
