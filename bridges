@@ -1063,7 +1063,7 @@
 [ HF: 6797D6ECCFA4729958A5A9F0A77D0B3B37C3C321 ]-[ NI: toralf4casimir ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 67BC2ACC5EB5629FBE55C59C865E4ECF74F7EA28 ]-[ NI: XPTO ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: XPTO ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 67D05C9F7FAAEE48D554F52FE59B04B001B9F244 ]-[ NI: schlamarcel ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: schlamarcel@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: 67D3D5C6573E70B5DE3E93E4955CD29C906F759E ]-[ NI: biggie ]-[ TR:  ]-[ BD: moat ]-[ BL:  ]-[ CN: grigorelaba69@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: 67D3D5C6573E70B5DE3E93E4955CD29C906F759E ]-[ NI: biggie ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: grigorelaba69@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 67D8D1CDC7EAD1213F25D03A74ADDB70DAE6DF99 ]-[ NI: TorMcTorFace ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: ledechaine@ledechaine.quebec ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: 67F30B5EC6F06E7E5BF489B8D875C9F7E5FD422D ]-[ NI: hashsplash ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.5.16 on Linux ]
 [ HF: 67F5A842FDE0C5E9DB573C56B83E98A1CACCB76A ]-[ NI: bridge12 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
