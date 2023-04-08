@@ -2358,7 +2358,7 @@
 [ HF: E14840FD58E65BBADE40D382E6EF76F421B8712A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: babak.silverfox@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: E14DEBEA35A8DF4040D2B84C6953887EB8E0B450 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: Random Person <mxk1 (AT) protonmail (dot) com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: E17F6BDF4E1845FCDDD5C0DF38B3A86FF8C574C0 ]-[ NI: ladder ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: erickpark@protonmail.com ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: E1AE36014BBF8F6D73909C525240666D5A4B2690 ]-[ NI: donggobbler2000 ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: tor@dahlo.se ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: E1AE36014BBF8F6D73909C525240666D5A4B2690 ]-[ NI: donggobbler2000 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: tor@dahlo.se ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: E1D1E239A303A711AD6DA0A8449E3A731C42194C ]-[ NI: Obfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: nf0o1nvu@anonaddy.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: E1EFB64130CB9587F3FE53969426642C2C400F26 ]-[ NI: Lizuzu ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN: <your-email> ]-[ PL: Tor 0.4.7.13 on Windows 8 [or later] ]
 [ HF: E1F71440C96BBB2201FD27E58CEBACB6ED58E722 ]-[ NI: Overture ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <ph.ilippelatuli.pe+tb@protonmail.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
