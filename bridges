@@ -922,7 +922,6 @@
 [ HF: 5B1F222787A13D8FACDC3046BDFCB8A15F806C7B ]-[ NI: GWBridge ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: <golemwire@gmail.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 5B40851153C8453AF16C4263463FC17EBBD4A3AD ]-[ NI: Nagusia01 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: nagusia.gurtc@simplelogin.com ]-[ PL: Tor 0.4.7.11 on Windows 8 [or later] ]
 [ HF: 5BA21D57C4E574E04B01C396E5BD4604D4EDD085 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: andi@maschinendeck.org ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: 5BA3FEE2EC4DCDE48D3DC9F9AE5658B8531B27F9 ]-[ NI: Highway ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: rotortail pr0t0nmail DING com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 5BA660424F4EFCD5600D381A508EF8830C61D01D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: dont@contact.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 5BB70D89888337F990273AE8B5713A0B89248782 ]-[ NI: ToedelsObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: martijn@toedels.net ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 5BB95E041C7ABF7969286FA10C189BFC975D45CA ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: sakontwist@proton.me ]-[ PL: Tor 0.4.7.13 on Linux ]
