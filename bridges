@@ -1733,7 +1733,7 @@
 [ HF: A64D73029ABD4E45825D8E4917F991D158CF175B ]-[ NI: AlphaTorBridge ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: <alphabridge@hostux.ninja> ]-[ PL: Tor 0.4.5.16 on Linux ]
 [ HF: A65F939DFD918CF19C1CEF358A421754368E82FB ]-[ NI: prsv6 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: admin@prsv.ch ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: A6853E47189A27C0952815C7388D7D3BC7805F3C ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: A692DAD716C15D410C8770F43F4CF0369F26E406 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.5.16 on Linux ]
+[ HF: A692DAD716C15D410C8770F43F4CF0369F26E406 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: A6AFB91247DCCAAB4D8642C027B3F10D719FCC91 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: tor@nomagic.de ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: A6C450C235151D80B094680B86BA21BE132466E6 ]-[ NI: crackychanDOTorg3 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: url:https://cracky-chan.com/ proof:dns-rsa os:Ubuntu ciissversion:2 note:Cracky is catharsis, she's so fucking cute and sweet (3) ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: A6E57404DF5E36C6C23247F8FBE1DDC4346CEDC4 ]-[ NI: mnlabrelay1 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: admin@mnlab.xyz ]-[ PL: Tor 0.4.7.13 on Linux ]
