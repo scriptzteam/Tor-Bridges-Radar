@@ -333,6 +333,7 @@
 [ HF: 246A342BACC3C9D7062263BFDAF1029ABDD877DF ]-[ NI: muscaria ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: la ninpre <aaoth AT aaoth dot xyz> ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
 [ HF: 247FBA0892DDCDE61897E2979A809ADCC8C0DB04 ]-[ NI: glittershy ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: TOR Administrator <tor AT glittershy dot net> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 2485C4EBC72ABDEB05F7BC36A74138E64269917D ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 24AB4A049FA093B997238ED050652E7CD7FC5706 ]-[ NI: NochnoiDozor ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: email:tor[]mictronics.de url:mictronics.nerdcamp.net proof:uri-rsa uplinkbw:10 cpu:armv7l os:debian/10.9 ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 24C964282B1EE7CA82AC6E400D3F1E6E69D7FE04 ]-[ NI: spacebeans ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: 0x18D31287 Donn Morrison <donn@tuta.io> ]-[ PL: Tor 0.4.5.10 on Linux ]
 [ HF: 24FCAADB3729456B960077E844020E034EE2198E ]-[ NI: toralf4igel ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 250FCF06465D43EC5BB84288D410DCEAE3251928 ]-[ NI: NamelessBridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.0-alpha-dev on Linux ]
