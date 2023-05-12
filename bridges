@@ -975,6 +975,7 @@
 [ HF: 66687E470ACAAA0D9B3B535A416F472C07C78DE7 ]-[ NI: delphyone ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: fake@emaildomain.eu ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 666E69BCE00308F903ED370E57FE4D3127874A27 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: Torch <torch@darwinsys.com> ]-[ PL: Tor 0.4.7.12 on OpenBSD ]
 [ HF: 668C3247B12DA9E26C98D48F2E8F4D91724EDDFC ]-[ NI: clinkme ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.0-alpha-dev on Linux ]
+[ HF: 669A2C8A57C57DEE4B685437A7ECC86E9EAF4C3B ]-[ NI: SpinnerDolphinBr ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Random Person <thoughts AT carpenter DASH farms DOT us> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 66AE1DF20984C9A70E36542BEA1CABAC5E9050D1 ]-[ NI: Wat1B1TorNodeIo ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: email:exit[]tornode.io url:tornode.io proof:dns-rsa abuse:abuse[]tornode.io uplinkbw:10000 trafficacct:unmetered ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 66C21FE95CF26FF11CC643A7D06DC854BA479E91 ]-[ NI: c3ltor0 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: Tyler Durden <virii HERE COMES A SPECIAL CHAR c3l d0t lu> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 66DB350B56F3F2FC3B3F2D7A7608A4DD945341FD ]-[ NI: GoldenGate ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: tor@a9.wtf ]-[ PL: Tor 0.4.7.7 on Linux ]
