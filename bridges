@@ -1950,7 +1950,6 @@
 [ HF: C8988A8897E61521E0AAC65CB4391FAEF83863C3 ]-[ NI: tomlig ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: <tomlig@yandex.ru> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C8B16741D5923CD3FA36131B10B9A8BCF7A90F5F ]-[ NI: nobody3 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: nobody@example.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: C8EC84EF770B1F5423F3FBCA531B0BCC10AD5241 ]-[ NI: TORtellini ]-[ TR:  ]-[ BD:  ]-[ BL: ru ]-[ CN: TORtellini <tortellini@secmail.pro> ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: C904FE8A471042D527F51D7DE063C92633A0440F ]-[ NI: CPeligroso ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: cabron.peligroso@proton.me ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C90C912AFC10D5BB86FECE358F99D3E16D6F6EC8 ]-[ NI: jarod125 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: Gabriel <gabriel AT xf dot ro> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C911C1DE6D883E5B3819EC52D475DDC0AE438E67 ]-[ NI: Sr2Bridge455 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C923711170CF04353B186963F767750565673640 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: alabbott@pm.me ]-[ PL: Tor 0.4.7.10 on Linux ]
