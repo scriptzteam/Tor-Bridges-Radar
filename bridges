@@ -2447,7 +2447,6 @@
 [ HF: FD984D7ED12F7412603118A25124D98E62EF2ABD ]-[ NI: goldfish ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: tor@rgen.be ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FD9CBDB86EABB22D06CFC9A5AFBEB0FB2E771B4D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: leumasino@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FDA619AB833F467D5889F23D1428DAD7F84FFEC1 ]-[ NI: tomlig ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL: ru ]-[ CN: <tomlig@yandex.ru> ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: FDD36F96FC902108C88E45FACEAF2692645BBCBE ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FE02FC07AFE54C2004C44BADC630193AE67A7C7B ]-[ NI: pokemonfighter ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: bearfighter dot tor at proton dot me ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FE0325EBB2AD499E5B4D5177FC0FD8EDC3A1AF23 ]-[ NI: Wilma ]-[ TR: obfs3, obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: wilma-tor@syring.name ]-[ PL: Tor 0.4.5.16 on Linux ]
 [ HF: FE0BDEAC95209B0B5D397E1133B4E403BFB2F0D9 ]-[ NI: Toray ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: neutrino8@gmail.com ]-[ PL: Tor 0.4.7.13 on Linux ]
