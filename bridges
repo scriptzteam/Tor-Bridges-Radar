@@ -2224,6 +2224,7 @@
 [ HF: DCC0201F40DDEECDDDCE4E7039C5A5252C42C00A ]-[ NI: ndnop5 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: linus+tor@nordu.net ]-[ PL: Tor 0.4.7.9 on Linux ]
 [ HF: DCD7D703B36E0818B0C57985FB25BDA54CE0D9D0 ]-[ NI: toralf4buddelflink ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: DCEFC5438E65FF3CF14C8003B9CBA1D5744E95FD ]-[ NI: masto ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: email:jens[]kubiezie.de url:https://kubieziel.de/ proof:uri-rsa abuse:jens[]kubieziel.de ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: DD1D12F5357A53728E42DC29E39773B5A61F6B94 ]-[ NI: ProjectLightSnow ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: lightsnow@seed.moe ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: DD5ED4BBD072185FE2E338FD5BD3205EE4795512 ]-[ NI: DanaeKalevala ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN: danaeakalevala@hmamail.com ]-[ PL: Tor 0.4.5.16 on Linux ]
 [ HF: DD8487077CA9002082C4A57C590036EAECB206BB ]-[ NI: NightowlBridge1 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: privatenightowl@proton.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: DD9B8284A5754E4D0450317DA08F8F93606A742C ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: codingdodo@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
