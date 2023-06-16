@@ -345,6 +345,7 @@
 [ HF: 242ED52694301C6EA29173E0875DB3D0E2A8F883 ]-[ NI: zhelezniychelovek ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN: <contact1@sent.as> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 2439C489FA4B7CB20F9899AF51354D08923098F0 ]-[ NI: cryzbridge01 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: avaet1iriejai9duv6aj(at)gmail(dot)com [tor-relay.co] ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 24598EFA81E09CAF9C25F31F3A63841B9593892B ]-[ NI: NotAGlowieObfs4B ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: noreply@example.com ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: 24650A0826B42299A716EBA014270D62C8C02DA8 ]-[ NI: Sr2Bridge687 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 2468C1E7C0B00242EC9A00118BF366E3DBB2AF31 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: Marszczak ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 246A342BACC3C9D7062263BFDAF1029ABDD877DF ]-[ NI: muscaria ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: la ninpre <aaoth AT aaoth dot xyz> ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
 [ HF: 2485C4EBC72ABDEB05F7BC36A74138E64269917D ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
