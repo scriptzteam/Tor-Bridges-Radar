@@ -2414,7 +2414,6 @@
 [ HF: F9FB89F95F9F4C6335916D99DBD37E4A489DD4E4 ]-[ NI: Sr2Bridge769 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA05FE00AAD560C6D35519A93977EBEC25830910 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: noone@nowhere.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FA22843D1E03CF5DC3ECA841505EDC155A477149 ]-[ NI: BunnyBridge ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: bunnyapocalypse@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: FA2714A3CA959904A30594EB849C37AD150693CF ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FA5656B9C3400878296C5FFAE988951598159974 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA5AA84053574FEBD1288F0A7B5B309674D90688 ]-[ NI: highfishTOR11 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor@gecloud.cc ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA8DD91E0822CFC1246FC017EEFFAFD7E9F73624 ]-[ NI: NMSBSDBridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: justagettingit@yahoo.com ]-[ PL: Tor 0.4.7.13 on FreeBSD ]
