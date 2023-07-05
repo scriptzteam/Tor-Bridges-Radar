@@ -2415,6 +2415,7 @@
 [ HF: FA5656B9C3400878296C5FFAE988951598159974 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA5AA84053574FEBD1288F0A7B5B309674D90688 ]-[ NI: highfishTOR11 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor@gecloud.cc ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA8DD91E0822CFC1246FC017EEFFAFD7E9F73624 ]-[ NI: NMSBSDBridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: justagettingit@yahoo.com ]-[ PL: Tor 0.4.7.13 on FreeBSD ]
+[ HF: FAA1B3AFAF2C0D0AB4900D7C5C85DAD02B579C46 ]-[ NI: mbnetworks ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FAA57E231AA6AE39C8864808974FC9DAE3967EB6 ]-[ NI: rommelhokTORNL ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: rommelhoktor[at]outlook[dot]com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FAB6B09A524519B5B71F5AFB2CEBC012426872F6 ]-[ NI: binarynoisesBridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: <binarynoise@mail.de> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FABF213E053B663484105AC7EF0E3E80CFAAD4E1 ]-[ NI: NucObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: torproject.org@yegle.net ]-[ PL: Tor 0.4.7.10 on Linux ]
