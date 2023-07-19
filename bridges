@@ -773,7 +773,7 @@
 [ HF: 53C18206B8E7645A6B568B05BFB9682FFEA203A3 ]-[ NI: FireKnight ]-[ TR:  ]-[ BD: https ]-[ BL: ru ]-[ CN: Dr Andy Hill <andyhill242 AT gmail dot com> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 5409F824749EEBD28B03F76F2CE49F35CA74AD52 ]-[ NI: NuthinButNoise ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: <admin-tor-20230718@bfccomputing.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 543C423A2B33B771005EC95C9B1E8AA0654B28DD ]-[ NI: anduinRelay01 ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN: 1024D/CF154167 Eirik Oeverby <ltning dash tor AT anduin dot net> ]-[ PL: Tor 0.4.7.12 on FreeBSD ]
-[ HF: 5481936581E23D2D178105D44DB6915AB06BFB7F ]-[ NI: flakey5 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 5481936581E23D2D178105D44DB6915AB06BFB7F ]-[ NI: flakey1 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 54894D395328ADB4DA245D5417EC57ACE6C1DBD8 ]-[ NI: ProjectLightSnow ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: lightsnow@seed.moe ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 548D00CA99928E52192B9A9E631B809D864345D2 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: 123@123.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 548DB979B671552F2E54B324669844A084AEF368 ]-[ NI: IowaNode ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
