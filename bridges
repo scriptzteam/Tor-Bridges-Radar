@@ -2345,6 +2345,7 @@
 [ HF: FCC080841240AC65C10A27FAEF2F041386A8E9D7 ]-[ NI: ahfobfs4b ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Alexander Faeroey <ahf@0x90.dk> ]-[ PL: Tor 0.4.7.8 on Linux ]
 [ HF: FCDBDC73EBA64005F1C4D920A63530BEF3C95483 ]-[ NI: swadhin ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: anwesha@das.community ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FCDFD1C95A5602FA2F1EE1289FA94D48D0450EA4 ]-[ NI: ring0se ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: <bridge@ring0.se> ]-[ PL: Tor 0.4.5.10 on Linux ]
+[ HF: FD2993F800EEE7651B95A2B94994A5E33C4E5D3F ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FD557D1F06EF2A31F58EE5F256FC2B416077E628 ]-[ NI: Chaka ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FD5B8E759B028AC1C1554C722BFDE30BE6201D76 ]-[ NI: Sr2Bridge940 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FD6607D69F94BE7CE24C4AC6292255ACF13EADAA ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: test@test.com ]-[ PL: Tor 0.4.7.10 on Linux ]
