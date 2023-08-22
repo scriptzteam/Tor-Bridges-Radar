@@ -534,7 +534,6 @@
 [ HF: 3920D53D79DF684DF3521AE787D79D07800C9E0F ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: y6zzotbt@duck.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 3955BD0AFDE709B494B2D667D7AFA91C30298DFC ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 3973412F98B99672822CB2B5B5F97C66F83C2E50 ]-[ NI: relayfridgerelay ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: 39856F3428110DFFB6A0B6A8BC3E36665181D94C ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 399EDF07D191F78E42CCC1C629D31724CE1AA6D1 ]-[ NI: StopWarp464n15 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 39B6A358E72F16459B3C9136DBBBBA19B29E82D8 ]-[ NI: Sr2Bridge1034 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 3A00AB42CA7B01EAF35EAE3AED3DDDFB86213351 ]-[ NI: ParaLaGente ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: dcv at disroot dot org ]-[ PL: Tor 0.4.7.13 on Linux ]
