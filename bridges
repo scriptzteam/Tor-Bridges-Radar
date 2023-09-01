@@ -1089,6 +1089,7 @@
 [ HF: 77FE8732EA811F504AA8D805135BC566713FF80C ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: engel.niklas@pm.me ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: 77FEA1D668285FBB7A76572730BCEA589F96C2D9 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: babak.silverfox@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 7818419B4CD29638A38E401096A62DA0C8719916 ]-[ NI: superuserone ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: Tuinslak <gritty.lamp6590 AT fastmail.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 7829A213519D26F3397F5EAC596D59E18DE2428E ]-[ NI: arcbridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: 22bee1d8-c23d-4e47-8862-6b6b2515b5a8@simplelogin.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 783D74F3EAFA59E0985629CECF0C689FD91BDE7C ]-[ NI: JustAnotherRelay22 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <JustAnotherRelay22@spurenlos.net> ]-[ PL: Tor 0.4.7.12 on Linux ]
 [ HF: 7875DA0CC05AB3229BFAB788B4E268136AE16712 ]-[ NI: sicknickfame ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: dont@contact.me ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 789049544B72E8B3FA9E95DBDF485E20DBDF94A9 ]-[ NI: Sr2Bridge1099 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
