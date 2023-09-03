@@ -1270,6 +1270,7 @@
 [ HF: 8639B0710C4A039AFF49A530F38CFDEBE94CB273 ]-[ NI: CalyxInstitute24026 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: The_Calyx_Institute url:https://calyxinstitute.org proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 863B9A024EF2007AF3B38E126E4241E6EB45FD07 ]-[ NI: WorldGateBridge4 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: worldgate-relays(AT)protonmail[DOT]com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 868CDFF9579B0C648BFC319120013202CC2C06F8 ]-[ NI: anoncicada ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: tor@snehankekre.com ]-[ PL: Tor 0.4.7.12 on Linux ]
+[ HF: 869D5BA3D16B77BC6B6B9B2B2C03FDA8D6E1CC2B ]-[ NI: SoulSurvivor ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: ripeart@protonmail.com ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 86ECDB1ACEC4D997D9D2FE11FC5F2CABD3F4CB32 ]-[ NI: Sr2Bridge1167 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 87183F6887DF2784B72E75EA5BA19087C33915D4 ]-[ NI: plaz ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: abuse[at]reptii[dot]xyz ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
 [ HF: 87206EEE01260E519DBB1BA0CFA37DF0D5CFE5AF ]-[ NI: tor1novgnet ]-[ TR: obfs3, obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Igor Novgorodov <igor AT novg DOT net> ]-[ PL: Tor 0.4.7.13 on Linux ]
