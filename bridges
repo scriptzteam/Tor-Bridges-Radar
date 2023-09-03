@@ -2024,6 +2024,7 @@
 [ HF: CE78C060B53ECE970E11A1BF2593702F8FC4C1A6 ]-[ NI: LOLA ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: CE9C69C6EFBE7A6D004264DB523D01490F3878C0 ]-[ NI: meanjollies ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <karen (at) p.izza.party> ]-[ PL: Tor 0.4.7.14 on Linux ]
 [ HF: CEA33D1A8869DCB33EB19BF462179ED415838996 ]-[ NI: tor2novgnet ]-[ TR: obfs3, obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Igor Novgorodov <igor AT novg DOT net> ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: CEB2C56C185785365179D4D133BA1605F0A8D77D ]-[ NI: ParadiseBridge6 ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: Dave Null <dave@null.net> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: CED69B8F412C2CC02FD1677ECD228016CC4F6F89 ]-[ NI: GlassWings ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: Andrew Pam <andrew AT glasswings dot com> ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: CED8BF3C17DF620FDCB14CABB7754CCC68BA7F0A ]-[ NI: Kupole ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <sm+tor@khjk.org> ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: CEDCE97070610CD1CB3023F9B1E3AC2704E0B53C ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: naveentech907@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
