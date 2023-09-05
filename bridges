@@ -1378,7 +1378,6 @@
 [ HF: 8F8567502CA8190B131A333911CDB92EAFF72B3B ]-[ NI: Sunflower ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
 [ HF: 8F8854AD8A739FE786F8F66AC01B275978037ABA ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 8F955AC82EEF0E7BCE8D8ED2DB3ED2B87E291A37 ]-[ NI: gulag ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor@xab.yt ]-[ PL: Tor 0.4.8.1-alpha on Linux ]
-[ HF: 8F97A551A7410CD7910ABE788A6FE33320CD0153 ]-[ NI: WTBridge ]-[ TR: webtunnel ]-[ BD:  ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 8F9C38FAC6C9AB9ED322294F2C11F36C8DFAB2F7 ]-[ NI: bridge11 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 8FA673F058B34D2B7ADB808E90AA3E9CE2E16B63 ]-[ NI: Beethoven ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: helpdesk@molgen.mpg.de ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 8FBA50B69045FCF5A4AA026658CF74FD08281A0F ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
