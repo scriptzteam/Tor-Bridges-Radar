@@ -672,6 +672,7 @@
 [ HF: 44B7FDFF72C64AF98033E78419E0C84FA364B0BB ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 44F8D187E6C96821789A5276A0CB9A1D80249A99 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: torops@cccfr.de ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 45012335A6F59F756983C1250B510C3C9987841D ]-[ NI: andrewhack ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: karadimov@gmail.com ]-[ PL: Tor 0.4.7.12 on Linux ]
+[ HF: 450A72AD34B75BBB17707D8A75BA830B02C1ABE8 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: hawk [common_email_symbol] aha [dot] ru ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 455769B556B35EEF13A1A495FCDCCF79006B7A31 ]-[ NI: AnotherBridgeX ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: <tornodecontact@mail.i2p> ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 458878D5376580CA92FFD6535C2598491A0CD1EA ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: codingdodo@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 45AFB6E69836E5068DE3782D178E6460C127A068 ]-[ NI: Sr2Bridge1135 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
