@@ -1485,7 +1485,6 @@
 [ HF: 9EB77C3D7FA40D8EA352A8B051697E3533E12019 ]-[ NI: Sr2Bridge1192 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 9EC1F9B1DEE5A7F9C6DD0DE67FA9E40D5D7914ED ]-[ NI: Siddhartha ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: 0x010BBAC502ECA3159A4BD6161CD3142065E93086 Siddhartha <siddhartha@i2pmail.org> ]-[ PL: Tor 0.4.8.4 on OpenBSD ]
 [ HF: 9EC468E63195461E0187DEF9D348C427DEAADB3B ]-[ NI: ProjectLightSnow ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: lightsnow@seed.moe ]-[ PL: Tor 0.4.8.5 on Linux ]
-[ HF: 9F0BCC12E02BE9174CF2797F547DABFCF617654C ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: tor-relay@mikitsu.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 9F14A41640F26920945B15A846CDDC084CA68D30 ]-[ NI: Aramis55 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: email:torix@protonmail.com url:https://torix-relays.org proof:uri-rsa hoster:time4vps.com ciissversion:2 ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 9F233608BB68532A6F3C65EA74AED77FDBB59719 ]-[ NI: AdversusMempo ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: info <at> notarealdomain <dot> net ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 9F348620D19CE2741C057A603BA5FD02E855EE5B ]-[ NI: Sr2Bridge1182 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.5 on Linux ]
