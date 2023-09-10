@@ -2113,7 +2113,6 @@
 [ HF: E067AFA7E767E6ED36634451EF4E5378CDA2C3B4 ]-[ NI: Sr2Bridge1168 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: E06B6C8AE44C41725F8EEBF7A44F3F2296CFF02D ]-[ NI: tomlig ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: <tomlig@yandex.ru> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: E0846474D81F71DF80107F3569FD6264FE2613B9 ]-[ NI: Toroborus ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL: ru ]-[ CN: torproject@thl.ovh ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: E096922797904885464DEB06D49744D2270FAABE ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: eatme@bitemy.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: E0AA3DFE712DBDE86132D62FBF2F97B65DB8F034 ]-[ NI: ipfirehal9000 ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN: bofh@bsafh.de ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: E0B1A1748704B50F2DDBD9DACD621FB2DCDECF1C ]-[ NI: Monkeyshine ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: volumeaware@mailfence.com ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: E0E508632FD58D8F047E55B70EFD6389D234E551 ]-[ NI: toralf4struppi ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.8.5 on Linux ]
