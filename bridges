@@ -1296,6 +1296,7 @@
 [ HF: 8BE0CD291E66B0DDEF06BB2658E7196082499C07 ]-[ NI: ndnv62 ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN: linus+tor@nordu.net ]-[ PL: Tor 0.4.7.9 on Linux ]
 [ HF: 8BF276496AA6562038394C3689B3A867D1C88D16 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 8BFF1F07A11CDB33459324D61E7A14BCEB45937B ]-[ NI: forTest ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: <cborlee@proton.me> ]-[ PL: Tor 0.4.8.5 on Linux ]
+[ HF: 8C12AE592924B8395734EA73C8E20702BA681F8B ]-[ NI: Bridgebuilder123 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bridgebuilder123@onionmail.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 8C26A0981284DEBBAD17D6404131C369D29713A6 ]-[ NI: CHN ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 8C6FE962D0D5003FDC8E075A48A36C10FE407788 ]-[ NI: Youpi ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: Youpi <cmVsYXktb3BlcmF0b3JAYXNjaWlhbmRodXRjaC5iZQ==> ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 8C8B04C86AE5AC69C170A67822E1A0BD7E5BAA59 ]-[ NI: WebTunnelBridge ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.8.5 on Linux ]
