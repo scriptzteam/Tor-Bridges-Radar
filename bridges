@@ -1761,7 +1761,6 @@
 [ HF: C0D78E15E46F03CF4F6FC2E4CC3BE12D1BF667D4 ]-[ NI: ElDavo ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: tor@davidepalma.it ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: C0F90789CA6EE8DF1FE868B6298B665FBA6D5DC0 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.14 on Linux ]
 [ HF: C125D8216A06CD10EE4A7A9A2EF87243FD0C4057 ]-[ NI: IND ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: <lubor@jurena.sk> ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: C14822809799855179FA105727BA4B55AC08E31E ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: C1626DB227AA60A61BF7A8F091B6601F7FA46EB9 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: C177FB43588ED5ABA8C928FAF57209CAB567EEE4 ]-[ NI: MyServer ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C19093CA861CC89291841EC2164E747AE6899DA1 ]-[ NI: bridge28 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.5 on Linux ]
