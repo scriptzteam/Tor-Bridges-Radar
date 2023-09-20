@@ -1838,7 +1838,6 @@
 [ HF: C92613FA4B415577310EFB040C5D3EF17F04D9B0 ]-[ NI: tornado ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: jbs < tor AT jbs DOT sh > ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: C9314753C81F90FD09FB8DBE2216BBD26134B075 ]-[ NI: tor3004 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C980296CCEDABB923ED55DFE3D9E233BC52BA3F1 ]-[ NI: catpower ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: C98CAE1524CD1638523911383E1C246C206AB710 ]-[ NI: idideditheconfig ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: 1234D/FFFFFFFF Random Person <oliv5 AT caramail dot com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: C98DB2C9B3F30C618736D081607C5F665880ED77 ]-[ NI: bubu ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bubuzettete@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: C9A12A70CCC4F2073A181A66CAC61BA2CC06D43D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: scobo@gmx.li ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: C9AF4A5B30633774A09966617BB9081759FBFE84 ]-[ NI: Morus ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: potlatch proton me ]-[ PL: Tor 0.4.7.13 on Linux ]
