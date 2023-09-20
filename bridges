@@ -1375,7 +1375,7 @@
 [ HF: 985542DACCB1AFCBB8CD291344033AE9CFB90A4E ]-[ NI: t7 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: <bert@phonk.net> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 98748988B1042C2FF00D6E59DF895831C51503BC ]-[ NI: hooptydoo ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: 9892FC4BC567C8F4325E0B0FE52B7279D4FE4CA0 ]-[ NI: LilOrwell ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <mjf@mjfer.net> ]-[ PL: Tor 0.4.7.7 on Linux ]
-[ HF: 9897894FCDEB0E89761DAF1FA14C58BD4D3B11FF ]-[ NI: bob ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: bob@hometag.ru ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 9897894FCDEB0E89761DAF1FA14C58BD4D3B11FF ]-[ NI: bob ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: bob@hometag.ru ]-[ PL: Tor 0.4.7.14 on Linux ]
 [ HF: 9897F3130C867A008DE70C99748AE89733EEB230 ]-[ NI: WebTunnelBr ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: meskio@torproject.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 9899A464FC721D606A584D709766A7EE2241FC66 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 98BFA7E527C20F02A10EC5BB6ABA3C065360728D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: noone@noone.no ]-[ PL: Tor 0.4.7.10 on Linux ]
