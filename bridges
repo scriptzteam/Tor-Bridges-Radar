@@ -1807,7 +1807,6 @@
 [ HF: C9B20366CC38A293ED3BB559032B83F90BB8FD50 ]-[ NI: QuantumBerry03 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@example.com> ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: C9E0250C4752CA8026CCD8F5D036927DB784CE63 ]-[ NI: Sr2Bridge1221 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: C9FB0338D16E1192CE86B366835C85EC100C665B ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: khanbabak739@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: CA131589C9D23E68A3D5D06CB61F9B04AC4A1D20 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: darthchriser@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: CA2F5761C1384908D54CC5A0291C3D04E627BF74 ]-[ NI: Sr2Bridge1222 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: CA55B1C1906D6E1746ADEE258AFA58F68179E983 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: root@deka.ua ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: CAA119D5D1E3ABA6F55F145CB57952F52457F8EE ]-[ NI: SemperFidelis ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: sven DOT scheiner AT googlemail DOT com ]-[ PL: Tor 0.4.8.6 on Linux ]
