@@ -1442,7 +1442,7 @@
 [ HF: A22AF4DB871D81F77D853C921FDA36995920B02A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: domi+tor@secnd.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: A25974E6B8CB504D51D5730F6C6AFC4A5164A0D9 ]-[ NI: CaminhoSemVolta ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <tor@guilhermeprocopio.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: A29C3E5C649B25E4D4DE976379E3825F9DBD14FD ]-[ NI: OhNoAnotherBridge4 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: email:tor-man[]BogoLinux.net url:https://bogolinux.net proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: A2C1D2D039956BCA837F4E994B732CB5B5A19FF5 ]-[ NI: BestiaIII ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: A2C1D2D039956BCA837F4E994B732CB5B5A19FF5 ]-[ NI: BestiaIII ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: A302128427462F653E2689E54BD17204B587BCE3 ]-[ NI: erasmusbrug ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: 2048R/B640BF1A Tor Relay <tor AT sec dot nl> ]-[ PL: Tor 0.4.7.13 on FreeBSD ]
 [ HF: A30627C072EECB2F5A22F8BA361445B1A8B022BE ]-[ NI: superuserone ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: Tuinslak <gritty.lamp6590 AT fastmail.com> ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: A311F8A53323A20045A64345C2BC6B3AD02989F7 ]-[ NI: oberlol ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: tor-contact <at> behringer <dot> me ]-[ PL: Tor 0.4.7.13 on Linux ]
