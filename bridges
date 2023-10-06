@@ -484,6 +484,7 @@
 [ HF: 35783B2DFE03C6510F60B469FFB3D31CBC9FDA5D ]-[ NI: 902PETOR ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor.service@wolfstar.ca ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: 35785756EB8100CA725374A33B171D0FAD37B4D9 ]-[ NI: ks19e4ud342 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: tor at ezr dot se [tor-relay.co] ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 358F925486CC15D0262E65C2D1D586C3B6631741 ]-[ NI: tor00A ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: alice@example.com ]-[ PL: Tor 0.4.8.6 on Linux ]
+[ HF: 35B8DAA52FA506CDDB24F3DEFE83206172231DF2 ]-[ NI: 42pBridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: 42piratas@proton.me ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 35D773BFDFA425EDBF33DAA64349DA4A93F19F83 ]-[ NI: Obfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: 368EBFB13A2898DBBFA853529B55C8FE775A0828 ]-[ NI: prsv5 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: admin@prsv.ch ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 368F0021D9DB914A8F08E3D3A9443AFBFD90FA53 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: eatme@bitemy.org ]-[ PL: Tor 0.4.7.14 on Linux ]
