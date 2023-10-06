@@ -1412,6 +1412,7 @@
 [ HF: 9E97A886417C87370AAC06947EC6A472188DAE3C ]-[ NI: KanGouLya ]-[ TR:  ]-[ BD: reserved ]-[ BL:  ]-[ CN: kaly@kangoulya.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 9EA673B2275BC15D1DBE7B061CCB562F0504FDB2 ]-[ NI: Regrowth ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: tor@lahfa.xyz ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 9EADF0B220A4B0E6FDA5E4975F9BE25D206E7804 ]-[ NI: RVBridge4913 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: 0x414A64A2 Aaron M. Ucko <amu at alum dot mit dot edu> ]-[ PL: Tor 0.4.8.6 on Linux ]
+[ HF: 9EB296711C9A83CFBA6DA397AB128BC60CA40A7E ]-[ NI: PoderosoTOR ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: 0xFFFFFFFF Random Person <marinaldo dot jesus AT gmail dot com> ]-[ PL: Tor 0.4.7.15 on Windows 8 [or later] ]
 [ HF: 9EC1F9B1DEE5A7F9C6DD0DE67FA9E40D5D7914ED ]-[ NI: Siddhartha ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: 0x010BBAC502ECA3159A4BD6161CD3142065E93086 Siddhartha <siddhartha@i2pmail.org> ]-[ PL: Tor 0.4.8.7 on OpenBSD ]
 [ HF: 9F14A41640F26920945B15A846CDDC084CA68D30 ]-[ NI: Aramis55 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: email:torix@protonmail.com url:https://torix-relays.org proof:uri-rsa hoster:time4vps.com ciissversion:2 ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: 9F233608BB68532A6F3C65EA74AED77FDBB59719 ]-[ NI: AdversusMempo ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: info <at> notarealdomain <dot> net ]-[ PL: Tor 0.4.8.6 on Linux ]
