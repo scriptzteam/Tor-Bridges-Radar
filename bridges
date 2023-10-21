@@ -45,7 +45,6 @@
 [ HF: 0653AD30C3E2A39C0357394A9339907AA1E74554 ]-[ NI: nobody2 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: nobody@example.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 065EA370142CFFCB51FC93412D6C1552B4BFBFB2 ]-[ NI: GruncleStan1586 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: 0x18FFB9259E11C3BC69ABC8857E65272B32D3C971 f19.4jbg3@gmail.com ]-[ PL: Tor 0.4.8.7 on FreeBSD ]
 [ HF: 0663F3E7008870FFFB498D7089681484406768AD ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: tor-operator@dcsl.dk ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: 0676749878ECED5F6D6032121AEA6973B8A4F307 ]-[ NI: Terabithia ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: ianredhead8@gmail.com ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: 06864FBFB86FE74F6BCC8CAB1A88956A441416AC ]-[ NI: 2AnotherUniverse ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: facing_prancing256 (a) silomails (d) com ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 0693859283B4F83257D6888715B9BE586B5FADD3 ]-[ NI: EnigmaBridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: bridge@email.com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 0695079E4C5F287007731D59A3092FB019A73E1A ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
