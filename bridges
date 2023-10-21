@@ -1719,7 +1719,6 @@
 [ HF: B76081DF28B0E858B1705FE229D81969460E1C66 ]-[ NI: RMB1 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: bund <a-t<> posteo (point) de ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: B7714A8121AAD2535F89B15DE4ABF9D992DD1DA9 ]-[ NI: freebridge02 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: freebridge02 dot hugbs at aleeas <dot> com ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: B77A12910F38CA7229FD93D515E2FCD38A539937 ]-[ NI: Init6SoleusBridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: 0xEDF962D7 Init6 Consulting <admin AT init6 DOT eu> ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: B7A6D5826BC0B312F0774217D7530B85661E2992 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: theisgroenbech@pm.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: B7DD61923F064045D25DD68B12273B8FFEAF90B7 ]-[ NI: zwiebelfoo1 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: katze@kunfoo.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: B7F518DC055E7F47F80B9E4D8E5167602D616D8B ]-[ NI: Sachaufgabe ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: <tormaster@flw5.de> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: B808EEF2C941D3E79FA1E8974494D64DEECCB89C ]-[ NI: CalyxInstitute67971 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: The_Calyx_Institute url:https://calyxinstitute.org proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
