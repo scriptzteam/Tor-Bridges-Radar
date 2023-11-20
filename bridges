@@ -28,7 +28,6 @@
 [ HF: 045C79DE4DD93776F441191284CED95840F3E8F6 ]-[ NI: BPAScannerOBFS4 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <admin@butlerpascanner.com> ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 04C0801983115A80E17F1495A5903CF136374FD7 ]-[ NI: torbitan ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 04CB2493EBEAC50F4836C75CDB58710818948F3E ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: harlandsanders@cock.li ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: 0509E01FAB96B3584DC77F702961B9B522C47318 ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 052DF3E420F875EDEBC9BCCC3E5A542CC4103308 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: mendeleev[AT]riseup.net ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 0547326C1155AD0A7366D6B3A65EA406ED0CE377 ]-[ NI: Sr2Bridge1284 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: did not write the code to populate yet ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 057FE28C84818899BB4A592CF3DFB79E6DAC7931 ]-[ NI: vermonixa02 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: vermonixa@[rem]proton.me ]-[ PL: Tor 0.4.8.7 on Linux ]
