@@ -105,7 +105,6 @@
 [ HF: 0CD4D467834819A53E0E3FB093BC758F402DE040 ]-[ NI: dolcefarniente ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: <tor@irl.fyi> ]-[ PL: Tor 0.4.8.7 on OpenBSD ]
 [ HF: 0CD93519A2749CD6972B5184386E0B48B1098526 ]-[ NI: Sr2Bridge1210 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: 0D0FDFCEED47F621238D516ACA11E5E3932018A4 ]-[ NI: Unnamed ]-[ TR: obfs4, obfs3 ]-[ BD: moat ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.9 on Linux ]
-[ HF: 0D26EC10B5614BECFF981E7AAE9874F8BC944273 ]-[ NI: BTxBE ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: jbxpvebxtb@protonmail.com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 0D529BE979320E4F149EA0543A50D8B06F61D612 ]-[ NI: NeutrinoAlphaSEC ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: positroncake@protonmail.com ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: 0D5AF458D7BA881A0C31920B7F8E53E441143B2E ]-[ NI: FreedomForAssange ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: Random Person <my-tor-bsz AT laryllian dot de> ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 0DB6CBC91F1929DEC5B9EA9C89D84C3FA9B83BCF ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: xBTWutUkIk4T0up8Lawe@dispostable.com ]-[ PL: Tor 0.4.7.10 on Linux ]
