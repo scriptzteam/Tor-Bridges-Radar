@@ -360,7 +360,6 @@
 [ HF: 276FAD7E4389F11F689669888B059F10865CC15A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: test@example.org ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 2775E2229ACC9FE934BC69F416DB8B3294D3DFDB ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: relay.e5tsz@simplelogin.co ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 279175136E84235B93D7D7BB10A99BEA94E9D9AA ]-[ NI: cstb2 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: 0x37C6224D225BCD7D Jon Proulx <jon AT jonproulx dot com> ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: 2799AD7C501CCC92E48EBFD243A45089D485A12A ]-[ NI: Sr2Bridge1318 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 27AA8EC511B7C80224FCB563D60E7FBCD7090D39 ]-[ NI: sasoom ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Foobar foo@bar.com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 27B80E05989F24D422806D14D5F0A85148E00737 ]-[ NI: putinesca ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: ranknyank@posteo.in ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 27C8BC57BB6B197F1AD6EB99887DE19C5A4F8681 ]-[ NI: Racina ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: birgitta.nk-hem@yahoo.com ]-[ PL: Tor 0.4.8.7 on Windows 8 [or later] ]
