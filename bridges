@@ -2118,6 +2118,7 @@
 [ HF: E067AFA7E767E6ED36634451EF4E5378CDA2C3B4 ]-[ NI: Sr2Bridge1168 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: E06B6C8AE44C41725F8EEBF7A44F3F2296CFF02D ]-[ NI: tomlig ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: <tomlig@yandex.ru> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: E0846474D81F71DF80107F3569FD6264FE2613B9 ]-[ NI: Toroborus ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL: ru ]-[ CN: torproject@thl.ovh ]-[ PL: Tor 0.4.7.10 on Linux ]
+[ HF: E0AFA6EFF6B231BB9B27BD688F94279D3B02654B ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: E0B1A1748704B50F2DDBD9DACD621FB2DCDECF1C ]-[ NI: Monkeyshine ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: volumeaware@mailfence.com ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: E0F2AFD5F25A713EBCAE0611984F8A0E2ECC92CA ]-[ NI: Sr2Bridge1162 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.5 on Linux ]
 [ HF: E141162DD76CFE12AA9EE7FDB60CB8B71EE803AC ]-[ NI: hejinona32 ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: Michel <tbr32-info at mw-net dot eu> ]-[ PL: Tor 0.4.7.14 on Linux ]
