@@ -816,7 +816,7 @@
 [ HF: 544F35BEB8F2A7D59160E7A283CB292CBA3A92A0 ]-[ NI: exbBR ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor(at)0x2142(dot)com - bitcoin:bc1qhd6j5zdcc007q42nsretgll4nztydqc2tf2h02 - litecoin:ltc1qh53rz35fcjnd99ethgkegx3te7lk9ta6eg5an5 ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
 [ HF: 5457AA9EB7FA96716A66E0226CD83213D180368F ]-[ NI: Sr2Bridge1393 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 54801538DC6843D6CA636FB6B3B989055AA56D52 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.5 on Linux ]
-[ HF: 5481936581E23D2D178105D44DB6915AB06BFB7F ]-[ NI: flakey12 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.8 on Linux ]
+[ HF: 5481936581E23D2D178105D44DB6915AB06BFB7F ]-[ NI: flakey7 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: 548DB979B671552F2E54B324669844A084AEF368 ]-[ NI: IowaNode ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 54BAA02AEDC748D624CF882BF9C833F2F6DC62CF ]-[ NI: TurbineGlitch ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: turbine-support@protonmail.com ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 54E151858E4A4AAD90BF07AE4396DD31C0692047 ]-[ NI: Zyglute ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Ludovic Hirlimann <ludovic@hirlimann.net> ]-[ PL: Tor 0.4.8.7 on FreeBSD ]
