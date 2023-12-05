@@ -860,6 +860,7 @@
 [ HF: 5986479D08C18DE5380E9E4217E29B75770D2C34 ]-[ NI: Sr2Bridge1388 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 59867E80CD0D4C44FBDF799CE3B878EDCCE0902A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: blackbooster@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 598E622BB21A47D1AC5F779733791590C795446D ]-[ NI: MyServer ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 598F5A477EA9FBEBF145E0AD6FF2C5D17632CD77 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 59995257FACAE84D1EF5F8C7AA1E76CF72E5E034 ]-[ NI: exbRU ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor(at)0x2142(dot)com - bitcoin:bc1qhd6j5zdcc007q42nsretgll4nztydqc2tf2h02 - litecoin:ltc1qh53rz35fcjnd99ethgkegx3te7lk9ta6eg5an5 ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
 [ HF: 599F229E5F163021F325B263B6ECE28E6C4DEEF2 ]-[ NI: ForPrivacyNETbr22 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
 [ HF: 59AC7AFD5D1D2EC189656D10A41D4B9BF38AE1CC ]-[ NI: One ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: fi@top ]-[ PL: Tor 0.4.8.9 on Linux ]
