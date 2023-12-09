@@ -1406,7 +1406,6 @@
 [ HF: 913661E21AF8813CF0806B7C3897E9504F01DA7A ]-[ NI: 0x29 ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: <jemurray@zweck.net> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 914490B9936A8D3709DC1FCEBD90C83EE31AD0C0 ]-[ NI: Sr2Bridge1403 ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 916C6C1B97EC3BDB2F9063A44DEE79984C3651EE ]-[ NI: FreeDumbz ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: ekb4@protonmail.com ]-[ PL: Tor 0.4.8.9 on Linux ]
-[ HF: 91AF751E0ABE0E4CB6C82950C8C9A037442137F2 ]-[ NI: droidrelay ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: Random Person <mrkamco5@skiff.com> ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 91D257B01C2C213822ADE547633C2B3DE9C7AD2B ]-[ NI: None ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 91D85D834C22613A82E02109864CCFA1ED4FC80F ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: gerontius@tuta.io ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 91DA221A149007D0FD9E5515F5786C3DD07E4BB0 ]-[ NI: crusty6 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.8 on Linux ]
