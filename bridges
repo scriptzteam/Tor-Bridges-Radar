@@ -516,6 +516,7 @@
 [ HF: 345CE68CC095C07BF1EDD4F50F11947C80D56406 ]-[ NI: bridge16 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 347084323C43FD51B3D59DEA1AD1F5372A317589 ]-[ NI: bauruine ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 347638F82E31823DE54DFBAF95475065E717FA83 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 347756B11510747EDB96A336E7599C3B883A3B50 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 348552814B83B140264D2DA0C3F3ACBDD60580AF ]-[ NI: Thessaloniki ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: avg@papadop.xyz ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 349306F9CC8D6A7672F407D6FA8C09DE95F20000 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 3495F65628DBA7BB167F72A133B0B4E9E07C891D ]-[ NI: Paperweight ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
