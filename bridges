@@ -38,7 +38,6 @@
 [ HF: 060E65DD3B29DB333551A9DAD50A1E3971D3BD68 ]-[ NI: TORPEDO ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: root at minjus dot org ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 0611C65066C3A3E0D39A7934210A0D0B95E7B5D4 ]-[ NI: ElephantBridgeDE1 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 061306F705C0A36F8EFCDCBD0C5AF1AA82A5C0A3 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: torops@cccfr.de ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: 061DE278318AC4595107A130704A4445C53C4CED ]-[ NI: i83uejsoi ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 0639618905EEB4DAFB019AB5B6BBF0A2E0115DFE ]-[ NI: whatintheactual ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Tor Admin <toradmin@anastrophe.com> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 0653AD30C3E2A39C0357394A9339907AA1E74554 ]-[ NI: nobody2 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: nobody@example.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 065EA370142CFFCB51FC93412D6C1552B4BFBFB2 ]-[ NI: GruncleStan1586 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: 0x18FFB9259E11C3BC69ABC8857E65272B32D3C971 f19.4jbg3@gmail.com ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
