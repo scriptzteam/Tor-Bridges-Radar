@@ -693,7 +693,6 @@
 [ HF: 472CA5C2BC34D79897593A21DC7583D1122E3C63 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: theisgroenbech@pm.me ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 4740E3A64D62502FCAEF218B756DCAC69EE6C7B3 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: contact@nearlydone.press ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 4746239470221001C6F77CEDFEC737C157195825 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: cadmium-flow-0g@icloud.com ]-[ PL: Tor 0.4.7.10 on Linux ]
-[ HF: 4753AF5D04AB8B417B9222D2EB9EE424D76A149E ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 478253176779758BEA1D4A5AA0B8C779C83734B0 ]-[ NI: shadowpit ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN: F939E7F006C4D5C3 ]-[ PL: Tor 0.4.7.14 on Linux ]
 [ HF: 47D4A9C8826273E76C420345563CC06E25F3D142 ]-[ NI: 0bpTdakKjhLr9u0Z ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: 0xFF6A449EE1FA1DE687D88DC508D96F76CA4E11C7 Philipp Richter <richterphilipp AT protonmail dot com> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 47DFA58C8688D25BFDC51646AF14207B8DE3CEC8 ]-[ NI: trachtenberg3 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: 0x415C653413B43475 ]-[ PL: Tor 0.4.8.7 on OpenBSD ]
