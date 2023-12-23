@@ -1474,6 +1474,7 @@
 [ HF: 9899A464FC721D606A584D709766A7EE2241FC66 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 98BFA7E527C20F02A10EC5BB6ABA3C065360728D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: noone@noone.no ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 98D6DB2F5F8FEE9756250EDD191A2D58120D7BD7 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
+[ HF: 98EAA0820ABF5710505FAC42BE9E92586A224D4C ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 98F31E55B2D954FB00136334768513033CBF53FC ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: <friends know how to contact me> ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 98F34A9D61DF9905F0536DCB52BDB6197D443AC6 ]-[ NI: IvEnotHInToEnCRypt ]-[ TR:  ]-[ BD: settings ]-[ BL: ru ]-[ CN: 616c984e00864c5258597a15943214fdfee7c906@protonmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 990D9B2AA32073CCE678A2521B61756E25691E68 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: john.doe@duck.com ]-[ PL: Tor 0.4.7.10 on Linux ]
