@@ -792,7 +792,7 @@
 [ HF: 5302AEDB32E413886524B0FCA20B04BA0295D108 ]-[ NI: Obfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: 5315AAAEA2B2F57A4FD22321C70019948C1ECB67 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 5326B9C50645FB8A2DC35CE370297D5A5B0FD220 ]-[ NI: GazetteCrisp ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <citizen1234 AT web dot de> ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: 534759A04DB603994A7824930F18035ECB82DF63 ]-[ NI: MeasureOfAMan ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <admin-tor-20231223@bfccomputing.com> ]-[ PL: Tor 0.4.8.9 on Linux ]
+[ HF: 534759A04DB603994A7824930F18035ECB82DF63 ]-[ NI: MeasureOfAMan ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <admin-tor-20231224@bfccomputing.com> ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: 534AC52710A217FDF7015887F99E970EC2FEF765 ]-[ NI: FuschiaIronNumbat ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 5361920A5438893DA1B220168657383060E13CFB ]-[ NI: JazperTorRelay ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: tor 'AT' jazper 'DOT' dk ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 53ABAB9A45134DD1D3B3DCF53BFA35BE4E856EC2 ]-[ NI: KauBridgeDot ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: abuse-tor@lists.kau.se ]-[ PL: Tor 0.4.7.11 on Linux ]
