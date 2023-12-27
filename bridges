@@ -1103,6 +1103,7 @@
 [ HF: 734206A9929D8D23665B34E87CD79984B06F2E4A ]-[ NI: bridge01 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tech@emeraldonion.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 73614DACFCF48CC32CDFEC6CD31AEB156F7D2918 ]-[ NI: armObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: aweaew@163.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 736A8C27544BFE0AE5FE94EF77AE85B32779A947 ]-[ NI: ThomasBernhardsHose ]-[ TR:  ]-[ BD: reserved ]-[ BL:  ]-[ CN: <flockmock@gmail.com> ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: 736E3EAE8C3AAF9A2C040C958E099F9B25FDF558 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: onaviades@gmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 737A733E0857E59C7906BFE0EA7A7EAAB6BFA162 ]-[ NI: ANiceBridge ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: Random Person <nobody AT example dot com> ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: 73C009C959805072FEE6DEA0992BA255BF25DCCA ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.14 on Linux ]
 [ HF: 73D8FF840444F84EC50DD755FBAD44CF1F0DE28B ]-[ NI: ndnop2 ]-[ TR: obfs3 ]-[ BD:  ]-[ BL:  ]-[ CN: linus+tor@nordu.net ]-[ PL: Tor 0.4.7.9 on Linux ]
