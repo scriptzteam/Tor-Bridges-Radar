@@ -1108,6 +1108,7 @@
 [ HF: 7544D5BD65C9F5DCCF196954D544538979A85881 ]-[ NI: bridge05 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 75797EE845229794239004808382D988850EB4F1 ]-[ NI: Pengloo ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: pengloo@exdonuts.com ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: 75A00F8621762DC37C1B7A6B4B342B9E551ABD7B ]-[ NI: Sr2Bridge1169 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.5 on Linux ]
+[ HF: 75A30A4D552C365DE161C69629FD663EBC44879F ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 75A39410A8B8DCDA12F37389832AAF990AA3E2D1 ]-[ NI: WorldGateBridge6 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: worldgate-relays(AT)protonmail[DOT]com ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: 75C12D79F661441F48D590CFEF96961272600C08 ]-[ NI: ForPrivacyNETbr50 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck ciissversion:2 ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 75CF37C7715C1FF7CE00129B6237C67A4E74442A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: torops@cccfr.de ]-[ PL: Tor 0.4.7.10 on Linux ]
