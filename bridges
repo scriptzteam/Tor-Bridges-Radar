@@ -2430,7 +2430,6 @@
 [ HF: FA05FE00AAD560C6D35519A93977EBEC25830910 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: ru ]-[ CN: noone@nowhere.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FA22843D1E03CF5DC3ECA841505EDC155A477149 ]-[ NI: BunnyBridge ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: bunnyapocalypse@protonmail.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: FA2B458EABDB9804105C7BAEFED858B44DD046B7 ]-[ NI: AdaLovelace ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: mateus@marim.dev ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: FA3A4FD1DADF3DB2D3C90B663F611541BCA5F9AD ]-[ NI: TorUPS ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <torbridge@up.edu.ph> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA5656B9C3400878296C5FFAE988951598159974 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: FA59781F587A7CDFE656663ED8086DC0F21B33EC ]-[ NI: qagrg3ut ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: qagrg3ut@proton.me ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: FA5AA84053574FEBD1288F0A7B5B309674D90688 ]-[ NI: highfishTOR11 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: tor@gecloud.cc ]-[ PL: Tor 0.4.8.10 on Linux ]
