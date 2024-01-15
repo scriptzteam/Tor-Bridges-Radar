@@ -2497,6 +2497,7 @@
 [ HF: F413240B7653FD30514D8F9534CFFDDAAC2DBEE1 ]-[ NI: midgetman ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: sudouser[at]firemail[dot]cc ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: F4146FD893282568DA24680CC8DAB2E4D6730F2A ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: umbert@re-gister.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: F478F8BCECF63432F3E1ECFA3F62E87CE8466842 ]-[ NI: ChVernes ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: stephan_thomann@bluewin.ch ]-[ PL: Tor 0.4.7.13 on OpenBSD ]
+[ HF: F48D9B36B6642EAF1C06B87F5AB4A5D0E8C44D96 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Windows Server 2012 [or later] ]
 [ HF: F48DC5B436E4C82FE8E0889446416ACD0B3CC994 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: F4B960487E18A026F334CE3AC6C3E9B67E3BC3C1 ]-[ NI: s2d4g ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: s2d4g.s2d4g@8alias.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: F4CA85A36AD2AE8635108037B5BDA7F71A5AF6FE ]-[ NI: WogaTOR ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor.20.ixi@xoxy.net ]-[ PL: Tor 0.4.7.13 on Linux ]
