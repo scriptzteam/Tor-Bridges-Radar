@@ -2143,7 +2143,6 @@
 [ HF: D069CD56D6223D0B46F7518401D29DEF8AF1FAE2 ]-[ NI: bridge2397420 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: notthistimesorry@invalid.com ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
 [ HF: D07473275406DC7868AB43AFEA0A56A15479D066 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: D0791EE42DC076FF0B28A35ACBCA47E319884E58 ]-[ NI: redken ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: <redken@magenta.de> ]-[ PL: Tor 0.4.7.12 on Windows 8 [or later] ]
-[ HF: D082BE8528CBF3D1AFE4058E29ECAEEEF743D0A6 ]-[ NI: nicktoir ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: thortortoxy@gmail.com ]-[ PL: Tor 0.4.7.16 on Linux ]
 [ HF: D084985174E12D4CEFC48A0E7FC313CFFA73100C ]-[ NI: bicyclechain ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: Harry Tuttle  <ernetnakisuml@gmail.com> ]-[ PL: Tor 0.4.7.16 on Linux ]
 [ HF: D084DAF4996499E1358C9F486676F83378D59889 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: D08542930AE6E3B499265C69E21C2F5FAF326E88 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: torops@cccfr.de ]-[ PL: Tor 0.4.7.10 on Linux ]
