@@ -743,6 +743,7 @@
 [ HF: 43D122C4C898E533C54FAE07481D49B5EE7F969E ]-[ NI: 3nity ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: <-1076176842-pm-me-> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 43FC4C0863281D2917484F2EB382D66334598DEB ]-[ NI: StTor7 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: brg2acc@proton.me ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 441610E4704B00C3BEEFC0FE1544D8115F316AC4 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru distributed=false state=dysfunctional bandwidth=untested ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: 4430365C3FB05392B9ABEF1661F8D98EBB8DC34F ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: wotaonmaface@mail.ru ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 444AC8D675D16B3A433EFB9402EF586D462A12E7 ]-[ NI: KATRIN ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 4457E292B302DDFBAF61A3826196423F4C9487AA ]-[ NI: 0815any ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <warau.benedikt@gmail.com> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 44613541AE754E46AF48CF5D8187B5D4AE6009AE ]-[ NI: Brynthia ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: tor[_at_]skatnet.de ]-[ PL: Tor 0.4.8.10 on Linux ]
