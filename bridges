@@ -2009,7 +2009,6 @@
 [ HF: B30767001AEB7648FF7B0662298A4C8926981BBD ]-[ NI: OldManYellsAtTyrant ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: <admin-tor-20231206@bfccomputing.com> ]-[ PL: Tor 0.4.8.9 on Linux ]
 [ HF: B31F8ED03228A6D1FD84CE4598887F86371B0A09 ]-[ NI: RaA ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <octflood@proton.me> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: B35B0E377EBB633C926FB93D81749DB01A030A44 ]-[ NI: PraxedisGuerrero ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: ru distributed=false state=functional bandwidth=accepted ratio=1.079 ]-[ CN: Louis-Philippe V��ronneau email:pollo[]debian.org url:veronneau.org proof:dns-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: B35F2EE317DAF1AC1FC1020A7BFF2AFF2F673E56 ]-[ NI: BrDbffBrdgs ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bor.duboff@zohomail.com ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
 [ HF: B371A4CDC01EFEF33168940BF61FC07E80B9BF2E ]-[ NI: togart ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: info@togart.de ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B37382AE15EDB23FED6C5A7E2CE723E2835BF406 ]-[ NI: erpatak ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: gszathmari AT protonmail dot com ]-[ PL: Tor 0.4.8.10 on OpenBSD ]
 [ HF: B391C844C67991F35A214A4B8B9A9F4B79C5478F ]-[ NI: gnampf4i15 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
