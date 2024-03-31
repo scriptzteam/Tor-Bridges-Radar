@@ -2023,6 +2023,7 @@
 [ HF: B2F71E72B011BEF63BD8C54DEE38A363AB89453C ]-[ NI: Obfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: email:tor[]axstet.de url:https://axstet.de proof:uri-rsa abuse:abuse[]axstet.de pgp:8C7683793B354F28A951E69CC51DC16D1A041C20 ciissversion:2 ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: B2FFB73290F0E3C1C13DB2F362AA560FA560A250 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: address@email.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B30767001AEB7648FF7B0662298A4C8926981BBD ]-[ NI: OldManYellsAtTyrant ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: <admin-tor-20231206@bfccomputing.com> ]-[ PL: Tor 0.4.8.9 on Linux ]
+[ HF: B313EE3D26F572E159951D73B3096481B1F2BEC8 ]-[ NI: InkyBridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <larsonspencer@outlook.com> ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
 [ HF: B31F8ED03228A6D1FD84CE4598887F86371B0A09 ]-[ NI: RaA ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <octflood@proton.me> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: B35B0E377EBB633C926FB93D81749DB01A030A44 ]-[ NI: PraxedisGuerrero ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: ru distributed=false state=functional bandwidth=untested ]-[ CN: Louis-Philippe V��ronneau email:pollo[]debian.org url:veronneau.org proof:dns-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B371A4CDC01EFEF33168940BF61FC07E80B9BF2E ]-[ NI: togart ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: info@togart.de ]-[ PL: Tor 0.4.8.10 on Linux ]
