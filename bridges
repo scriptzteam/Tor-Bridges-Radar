@@ -1907,7 +1907,6 @@
 [ HF: AC0001B6F3A8D78FA769AE8CE7B1C71A3FCEB384 ]-[ NI: KennyWhatTheHell ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: Duck Person <ducksaredoingducks AT duck dot com> ]-[ PL: Tor 0.4.8.6 on Linux ]
 [ HF: AC1AD7573CA2EE69A4447CF35D14F9104A19DEF8 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.8 on Darwin ]
 [ HF: AC7477CD81EB69010B5C05720339AE1103CEC6A0 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: AC9ED6C9C01D630CAB2E53ABC473EE5AEDAD7309 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor@nrk.one ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: ACA5737E6E3BB0AD87905F6412ADC379232F150F ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: docker1@email.en ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: ACB90EE88E5043CB09075FBBE230A394678DC0EC ]-[ NI: KIT ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=true state=functional bandwidth=accepted ratio=1.531 ]-[ CN: SCC-TOR-Relay <tor@scc.kit.edu> ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: ACEC83169D5958BBAA02280CA93E2C33FEE3DA38 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: romain.kowalski@proton.me ]-[ PL: Tor 0.4.8.10 on Linux ]
