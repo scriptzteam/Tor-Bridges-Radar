@@ -1554,6 +1554,7 @@
 [ HF: 958551FA41D7B52796F199803806AD634BAB8094 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 958C9E90BE4B631039B2D17369EACCE8126BAF1C ]-[ NI: toralf0uhu5 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
 [ HF: 95B9EEA14EE3D65AB692BF0F705BA2A2E8446BA5 ]-[ NI: jimmyjohnpaul226 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: billchambers62@tutanota.com ]-[ PL: Tor 0.4.8.9 on Linux ]
+[ HF: 95C390C7DF564A5FA5216267B60CEF7D2909C481 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 95D33DF592D4E01A6A0341909B1E12E556C3186D ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 95D82C333E131B58C81BDBAC92368653A9958494 ]-[ NI: ScriptTestButUsable ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <irate dot wronged456 at 4wrd.cc> ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 95E22ED7C535A9BEEE924F98D994DCFD17400265 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
