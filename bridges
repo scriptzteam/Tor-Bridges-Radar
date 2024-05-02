@@ -1126,6 +1126,7 @@
 [ HF: 6B33B64E8C5D5355A999AA7DB4A3B63AD21AAD2F ]-[ NI: an6average9brige ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: <mariam@gnaa.us> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 6B64165C162D946E676CF2C40E2E7CFA822E6316 ]-[ NI: eob96 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: tech@emeraldonion.org ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 6B826987E1203B9894A1B0F82BCC6670A52D247B ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: 6B91CA4CD2A42E7237F2DA135496522E8FB211C8 ]-[ NI: Samaritan ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 6BA73E23274BBABCD50C56A4875BDDC348172857 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: do_not_email@does_not_exists.ne ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 6BBA08F73FCBA916CDD2AB8E0B54379F837210D7 ]-[ NI: NAME ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.16 on Linux ]
 [ HF: 6BE1F25771F6664BDB3C476D8BE5B8C80F78E2AB ]-[ NI: Sr2Bridge1134 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.7.13 on Linux ]
