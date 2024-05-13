@@ -1917,6 +1917,7 @@
 [ HF: BC119D0B8D314900D3932219BD337E9EB0666CAC ]-[ NI: ForPrivacyNETbr03 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
 [ HF: BC18908E4325CA60305574E39DF45451662A0914 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: BC3D33D414C14D06979F97C5B26BB0876F7150E9 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: torbridge@volcrypt.com ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: BC5EB36B59534281D8C9BBF5410B55CEC2E80F26 ]-[ NI: gbridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: keiferdodderblyyatgmaildoddercom ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: BC850393E5254C2967F04A286F645C3DC8D5A69E ]-[ NI: ttfiorgsilta ]-[ TR:  ]-[ BD: https ]-[ BL: ru ]-[ CN: 0x06E80B7998C6E9D70139ED413F20747A5CE8043F Tapani Tarvainen <toradmin@tapanitarvainen.fi> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: BC8B29AE7E995B24AB4EBE2D5002B6BAF9798CFF ]-[ NI: flypeoplefly ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: myalias@insiberia.net ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: BC9F9BDC6B492E33C19D79EF6F76DBF6375F815C ]-[ NI: TorFromHell ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.16 on Linux ]
