@@ -1811,6 +1811,7 @@
 [ HF: AF152E915592B74AF4CE8628DADF34A1A4D6ED8F ]-[ NI: Synack ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <larskanis@gmail.com> ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: AF189F9BB828E9983200E412ED8B7DF9F40AC210 ]-[ NI: inconnu5 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor@inconnu.club ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: AF40BBB61DC0AC6C333E5D6056138615C85E1578 ]-[ NI: grytte ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru distributed=true state=functional bandwidth=untested ]-[ CN: hello@oswalpalash.com ]-[ PL: Tor 0.4.8.11 on Linux ]
+[ HF: AF7520587A882E3F78E64BC028A86E0CC399AA77 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: eatme@bitemy.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: AF9C1AE0001DD0AA2FCAD512FE671C700B250534 ]-[ NI: 0xdeadc0de ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: toni@impl.cc ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: AF9D493D4ADD04119E9F4EE5BC4EE12F65EB2135 ]-[ NI: hadesblue ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <torcontact[]hades[]blue> ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: AFA3149B332982FE405517DFE8F41E8D3754F127 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: domains+torbridge[at]gapple[dot]ca ]-[ PL: Tor 0.4.8.10 on Linux ]
