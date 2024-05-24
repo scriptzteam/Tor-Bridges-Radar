@@ -2279,7 +2279,6 @@
 [ HF: D9BC8E0ABB335603781D9D8958B876A3BE671327 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: bridge@done.com ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: D9E712E593400635462172121B7DB90B07669F71 ]-[ NI: dragon ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: ru distributed=false state=dysfunctional bandwidth=rejected ratio=0.626 ]-[ CN: tech@greenhost.nl ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: D9E83BECB1194B79C21E4B3CF3CB77BBE42243A4 ]-[ NI: OhNoAnotherBridge8 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: email:tor-man[]BogoLinux.net url:https://bogolinux.net proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.11 on Linux ]
-[ HF: D9F8CBC1840A0E433801678256C90AEA8F73C3A4 ]-[ NI: BridgeInABottle ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: w.reidlinger@gmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: DA0835FA932DDE35CC1B0CAC2F6271D99387271A ]-[ NI: cornerstoner ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: voriukas@gmail.com ]-[ PL: Tor 0.4.8.7 on Linux ]
 [ HF: DA11E182BA5D55328873E97F40B3D9F8A1493759 ]-[ NI: ApophisNotAvailable ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: DA378AF2F230CF2A6A9A2213DEA587714CBDA578 ]-[ NI: MAOI ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.8.10 on Linux ]
