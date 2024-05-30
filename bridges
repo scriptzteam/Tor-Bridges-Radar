@@ -1740,6 +1740,7 @@
 [ HF: A6126FED6521F5A1997889E9A9031627A080D86E ]-[ NI: bauruine ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: A61D2D38B89B5AAB8AC496C2EF0A02C6B52E036B ]-[ NI: 4bit ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: A624A012209DFF65948EA6014F75AF97BD204535 ]-[ NI: DontDoDrugs ]-[ TR: obfs4, obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: email:tor[]dzwdz.net url:not.dzwdz.net proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
+[ HF: A64019B2379B3D0EBC48C24E57742B0C4CE180A1 ]-[ NI: Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: enrico@h3rmt.zip ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: A65978EA81086E9A5D5734F2AC7380C128AB80CD ]-[ NI: IPXB1 ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: tor-operator [at] infosecproject [dot] org ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: A67B4173754A0FBF14A0FD58CD4925C4304763FA ]-[ NI: AngelSummersBridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: AngelSummers@cock.li ]-[ PL: Tor 0.4.7.16 on Linux ]
 [ HF: A6861511DE6EB22D3867833B2D7A1AC3108B84FF ]-[ NI: bauruine ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.11 on Linux ]
