@@ -1926,6 +1926,7 @@
 [ HF: AF9C1AE0001DD0AA2FCAD512FE671C700B250534 ]-[ NI: 0xdeadc0de ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL: ru ]-[ CN: toni@impl.cc ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: AF9D493D4ADD04119E9F4EE5BC4EE12F65EB2135 ]-[ NI: hadesblue ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <torcontact[]hades[]blue> ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: AFA3149B332982FE405517DFE8F41E8D3754F127 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: domains+torbridge[at]gapple[dot]ca ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: AFE6F7BAC2E1A077100029E56C2D8FF04CF890E7 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: eatme@bitemy.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: AFEB32175561F64890CE50B6D4B38E030D14F7F2 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: AFF21464B6BC20298B255E693697D8C71C01D6CB ]-[ NI: HSdeckPorto ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.4 on Linux ]
 [ HF: B0147B03EFF11AE0484315DB169AEA5360008308 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: unwomanly_felt-tip632@simplelogin.com ]-[ PL: Tor 0.4.8.10 on Linux ]
