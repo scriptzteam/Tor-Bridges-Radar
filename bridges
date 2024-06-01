@@ -2554,7 +2554,6 @@
 [ HF: F4F0D86636616B0E051B79FC8E2A4F34631BB263 ]-[ NI: kevinmitnik ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: admin@antfenix.xyz ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: F4FE451BBCC2F4E651E03E312556CDD8DAD49DA1 ]-[ NI: Kulubbuk ]-[ TR: obfs4 ]-[ BD: lox ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: F5101F16DA1E87E5EF3F9510191986E6D435674E ]-[ NI: CalyxInstitute2151 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=false state=functional bandwidth=rejected ratio=0.488 ]-[ CN: The_Calyx_Institute url:https://calyxinstitute.org proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.7.13 on Linux ]
-[ HF: F5118041EA50FA7AC8C01B151C0446632ADAB927 ]-[ NI: TroubledWaters ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <swigging@thepub.com> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: F53761C514EFD5AD5E0F4F1EF265E5523373A67E ]-[ NI: foobar9000 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: foobar AT integritet DOT org ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: F5806FDFAD8674AB705C274BEDC05DFDF490C3FD ]-[ NI: bridge14 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: F5E27FFCB3BE37E2097D3BFEDA887E3C1FFE8A50 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: crystalbridge@onionmail.org ]-[ PL: Tor 0.4.7.10 on Linux ]
