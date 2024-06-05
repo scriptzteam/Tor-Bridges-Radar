@@ -1204,6 +1204,7 @@
 [ HF: 74EEAC48B94D38F3480219B3F0108AE49236E69D ]-[ NI: SanFranYo ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: <nobody@example.com> ]-[ PL: Tor 0.4.7.7 on Linux ]
 [ HF: 74F2DD3B9F8CC2F246110052F22D106A838D6E23 ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN: eatme@bitemy.org ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 751410231F75FC7EE6060D4066E5A8ADD2D2EDC5 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
+[ HF: 75340B098ED9D30628AA8D4CAEF11CB7B659D083 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: crystalbrdige@onionmail.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 7544D5BD65C9F5DCCF196954D544538979A85881 ]-[ NI: bridge05 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 75797EE845229794239004808382D988850EB4F1 ]-[ NI: Pengloo ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: pengloo@exdonuts.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 7599E4CD1C977682E2A0B10C6A6CC6AEFBA7D500 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: cbk1wwkg8vrh@protonmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
