@@ -1114,6 +1114,7 @@
 [ HF: 6D0C955C17C53EB85BC539D92FD8DF4E9D1A1D5D ]-[ NI: qtipeveryone ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=false state=dysfunctional bandwidth=rejected ratio=0.362 ]-[ CN: Q-Tip <qtip@qtips.dynv6.net> ]-[ PL: Tor 0.4.8.9 on FreeBSD ]
 [ HF: 6D103CAE2DDFBA5CCDB0C4A058B4E150907953C7 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 6D11BB4DECD7160FEBFC5E0989B6B17F61694825 ]-[ NI: uname1111 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
+[ HF: 6D16874E6A5F0F7DF7EBBBCD4E574411B4CDF39D ]-[ NI: ZenRiots ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: admin@zenriots.com ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 6D2093B4B5460191B698327F3352F8B5A5C4C74E ]-[ NI: mirabilis ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: doctor.mirabilis@gmail.com ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 6D2435359FD81EDD8234E95915CF8CA46CEA36ED ]-[ NI: D4C ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.7 on OpenBSD ]
 [ HF: 6D337DB665043B2B233D89F8B851A701550C5C2F ]-[ NI: tmberg ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=false state=dysfunctional bandwidth=accepted ratio=1.014 ]-[ CN: ContactTor AT tmberg.eu.org ]-[ PL: Tor 0.4.8.12 on Linux ]
