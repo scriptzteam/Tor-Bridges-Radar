@@ -1157,7 +1157,6 @@
 [ HF: 714046F588D41A47540B04764BE60FB654F4359C ]-[ NI: tor001 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: alice@example.com ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 715058A3F34CD358A10B0353245A1E43E8657466 ]-[ NI: undead01 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: tor@timlukas.de ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 716FCEEE8C7869073C57B038D9E24D0B177473E6 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=true state=functional bandwidth=rejected ratio=0.087 ]-[ CN: sudo@nomad.aleeas.com ]-[ PL: Tor 0.4.8.11 on Linux ]
-[ HF: 71BA92463C2E938F79BC8BC4C381F75EB3ADEFA1 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 71C707B89BCB2DF9058621DF636A4D76B10EA678 ]-[ NI: ThunderHoppers ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: email:xonumi[]protonmail.ch url:xonumi.com proof:dns-rsa abuse:xonumi[]protonmail.ch pgp:E1074E9562606F32EE6D19DAC03701841DDF6132 keybase:xonumi btc:3G67Q6KUTeXM5nXUGspnvDHvpgVfhTUApD donationurl:https://xonumi.com os:Debian ciissversion:2 trafficacct:unmetered ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 71D2818D4068E4DECC26719F37EA53892D0E9E9B ]-[ NI: rasputin ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=true state=functional bandwidth=untested ]-[ CN: rasputin-film@freenet.de ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 71DB57FE50F785A71D928522700C380976DD29C2 ]-[ NI: bauruine ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.12 on Linux ]
