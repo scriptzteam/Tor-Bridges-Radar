@@ -1698,6 +1698,7 @@
 [ HF: B3BE18274700DC354F92069A3CC2CFEC13BB7A27 ]-[ NI: GoldenMandarin ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: qprq8g6t@duck.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B40ED09812BA275411DED2D7487FE706A6204580 ]-[ NI: gefira ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: 2b7d8fb991@sinenomine.email ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: B410E450E775CE6E6C126973EE3F31F7ACC77851 ]-[ NI: BackDoor ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: edonrot [a��] mynacol [d��t] xyz ]-[ PL: Tor 0.4.8.11 on Linux ]
+[ HF: B422C2838DE914BD921FE1276969F5A6E166C1F7 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor@longhands.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B42A847E957A476FCFC1E39B51801F1DBA8D450B ]-[ NI: cheeseheadagain ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: packergundo at gmail.com ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: B47C08B83DD91350FC6814582B1E6A3F7B98ADD7 ]-[ NI: WTBrIFwv7rumFv ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: bebt-kurztrip-0n@icloud.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B488E88385E3C2A4CA1714763BF402DEFA37F682 ]-[ NI: xxyyzz ]-[ TR: obfs3, obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: Brad <brad aht anduin eldar org> ]-[ PL: Tor 0.4.8.10 on NetBSD ]
