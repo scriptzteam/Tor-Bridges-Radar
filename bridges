@@ -1836,6 +1836,7 @@
 [ HF: C35179B1FADA742C4866F2D63CF6D859A9252EC3 ]-[ NI: n78d5xDF94v ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: bridge@eruc27.com ]-[ PL: Tor 0.4.8.12 on Windows Server 2012 [or later] ]
 [ HF: C37B1D76CE6812E11C682F80561BA8997FDE2F42 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <jxsvoboda@gmail.com> ]-[ PL: Tor 0.4.8.4 on Linux ]
 [ HF: C37CF936B499FCDC263A1C218C7FC04635C8196C ]-[ NI: dysnomia ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <fa-torbridge@haktar.org> ]-[ PL: Tor 0.4.8.9 on Linux ]
+[ HF: C38005351A906742098D05709864E4D1140F90C9 ]-[ NI: LastLegitTroll ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: lastlegittroll@gmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: C389F1C63F418791E62348F0DAD69A1CB40B351A ]-[ NI: BridgeZabehlice ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: Viktor <vnikolov AT vnikolov dot cz> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: C3A2274D84F51BC43674A375524782F6D19DA97C ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: C3C6ADF72D4D407E47E790EE0C152B3D14D7EEC1 ]-[ NI: Scarameow ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: bridge@alwaysnewbie.eu.org ]-[ PL: Tor 0.4.8.11 on Linux ]
