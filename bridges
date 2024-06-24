@@ -1400,7 +1400,6 @@
 [ HF: 97BAF6909E2E33D522F17F29744A906162049863 ]-[ NI: abridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: vgygzm8q7aa@temp.mailbox.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 97DEADA639951E51EE9E32E82267C327BA9CE8A4 ]-[ NI: bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: bridge@unknown.domain ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 97E6AB8ABCF9A8167F7AFA3F952D0FB1EF2D1855 ]-[ NI: kropotkin4 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.8.11 on Linux ]
-[ HF: 98246A960DB7172AE9BDDACBFECB8BF1F031816B ]-[ NI: Unnamed ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Windows 8 [or later] ]
 [ HF: 982CDB0D1D6F4995C5E8486350C691D70D68AC98 ]-[ NI: MAOI ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 983A55FA9F2AA91D5E39DBA58F3BBFFBC24176BC ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: obfs4@matb.se ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 984A8ABE4559A5A90957FB6DC866D3D971FE456A ]-[ NI: pewpew ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor@aaronb.cc ]-[ PL: Tor 0.4.7.10 on Linux ]
