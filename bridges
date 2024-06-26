@@ -738,7 +738,6 @@
 [ HF: 49B10C8EAC1727A24BA4DBEA20BE8038EFEF255B ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 49B3AA1D1EE8E9BC85C780B34F640C0BC75CBA13 ]-[ NI: Limoneneisbridge ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: torrelay at limoneneis dot de ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 49CA667A1850D0196F86D809959EEE00DB2AA9EF ]-[ NI: Sr2Bridge1734 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.11 on Linux ]
-[ HF: 49D75C4AC05F44BADC3AC75C529BBE73040CDBF1 ]-[ NI: Ty65cVXSr ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: email:admin_876395[]protonmail.com ciissversion:2 ]-[ PL: Tor 0.4.8.12 on OpenBSD ]
 [ HF: 49E71A8F264F891AE25D19647398BCAE75546F2B ]-[ NI: pounet27torrelay ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: thierry dot despeyroux at free dot frXS ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 49EF0BBC31E7DD0607BED3A8BB80368808FE64AA ]-[ NI: LievTolstoy ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 49F47D74597809F0823F6BDCBDEC9466A755025E ]-[ NI: pir0 ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: 0xa1<:at:>mailbox<:dot:>org ]-[ PL: Tor 0.4.8.12 on Linux ]
