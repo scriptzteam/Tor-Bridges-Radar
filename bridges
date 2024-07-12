@@ -195,7 +195,6 @@
 [ HF: 147998EDF9CC7965CC302724BBE11C328A7FBAEE ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD: settings ]-[ BL: ru distributed=true state=functional bandwidth=accepted ratio=1.605 ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 148C701D7E7BAB64DA5CAC99A68156C65CFA190B ]-[ NI: dhbr21 ]-[ TR: obfs3, obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: Tor-Admins <toooor AT all DOT de> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 149F9781C415A21F12341C2404452EAB5B9EA8D3 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
-[ HF: 14A3169E451B901A56CC11A582089612399C037F ]-[ NI: KimJongUnAeNpung ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: seb9qozg@anonaddy.me ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 14AA8A2BEB14ED67F11DCC39D864FEB45C6EE2B4 ]-[ NI: NetDevPX ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: <tor@netdev.cloud> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 14FD5517100B43AEF7D382D8BD11ECCC972C081A ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 150DE3CEAA750033E2F47F4EDDF2FA5BF2AA9A46 ]-[ NI: CzechInFraknkfurt2 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: better.day@seznam.cz ]-[ PL: Tor 0.4.8.12 on Linux ]
