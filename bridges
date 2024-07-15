@@ -916,7 +916,7 @@
 [ HF: 5E23E648C5E0D9B6C7E64AFC2BD60B960874AAA8 ]-[ NI: bauruine ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 5E4EC84343BF9A0A71D776FD9CBD4EECEAB98F75 ]-[ NI: Piggy ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: hostmaster@tigerw.me.uk ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: 5F07C8C573FA3C5B5A1E006614315378B4EF5114 ]-[ NI: weirdrelaytopickbro ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <hsdd27889dfys89982@protonmail.com> ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: 5F161D2E5713C93F16FEEDD63178E37208AA78DF ]-[ NI: zipfelmuetze1 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: ru distributed=false state=dysfunctional bandwidth=untested ]-[ CN: Felix <zwiebel ta quantentunnel tod de> ]-[ PL: Tor 0.4.8.6 on FreeBSD ]
+[ HF: 5F161D2E5713C93F16FEEDD63178E37208AA78DF ]-[ NI: zipfelmuetze2 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: ru distributed=false state=dysfunctional bandwidth=untested ]-[ CN: Felix <zwiebel ta quantentunnel tod de> ]-[ PL: Tor 0.4.8.6 on FreeBSD ]
 [ HF: 602E135E30929D3B9D66A35F3C944B54A94EAB77 ]-[ NI: AbsoluteEvil7 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor[dot]relay[dot]edc /at/ danwin1210[dot]de ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 607E517F9ABBA616A85E5B86D3DE20EE75DA19D9 ]-[ NI: Node2 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 60CB7C65BA1B9A24D4F65EFB0B0268C17FA41D41 ]-[ NI: telebridge2 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: torproject at telekobold dot de B281E628144FCFBB95BB520EA6066E8A57647CB9 ]-[ PL: Tor 0.4.8.12 on Linux ]
