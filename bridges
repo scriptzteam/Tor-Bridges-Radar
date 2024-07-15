@@ -1409,7 +1409,7 @@
 [ HF: 98BFA7E527C20F02A10EC5BB6ABA3C065360728D ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: noone@noone.no ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 98D6DB2F5F8FEE9756250EDD191A2D58120D7BD7 ]-[ NI: ARCON ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: bridges@relayon.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 98F31E55B2D954FB00136334768513033CBF53FC ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: https ]-[ BL: ru ]-[ CN: <friends know how to contact me> ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: 98F6C30110810D6EAAB8CC9F32BC2A80DC073BF2 ]-[ NI: Ty65cVXSs ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: admin[]x1surf.eu ciissversion:2 ]-[ PL: Tor 0.4.8.12 on OpenBSD ]
+[ HF: 98F6C30110810D6EAAB8CC9F32BC2A80DC073BF2 ]-[ NI: Ty65cVXSs ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: admin[]x1surf.eu ciissversion:2 ]-[ PL: Tor 0.4.8.12 on OpenBSD ]
 [ HF: 98FE891FB7786F1099388B4BB7EA825CD4D11B50 ]-[ NI: OnionJuice ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: torbridge@07f.de ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 99128330D6B17487A51A229A37CB829083C19C21 ]-[ NI: TorUPS ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: <torbridge@up.edu.ph> ]-[ PL: Tor 0.4.8.4 on Linux ]
 [ HF: 99431CB7DAC229BF993BE69B0554C1A96C5956A5 ]-[ NI: NickPicked ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: mj_gill_89@hotmail.com ]-[ PL: Tor 0.4.8.12 on Linux ]
