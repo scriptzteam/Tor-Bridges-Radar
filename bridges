@@ -1573,6 +1573,7 @@
 [ HF: A907244DF27B5A0E9062A586B16EB43F63CF575B ]-[ NI: Rafale ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: admin-tor@netc.eu ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: A91E81FD65F6E6AFC75BBFCAEDB59C89AF1C0BD9 ]-[ NI: trachtenberg4 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru ]-[ CN: 0x415C653413B43475 ]-[ PL: Tor 0.4.8.7 on OpenBSD ]
 [ HF: A921061CB71A647BD8C9AD067177DB69CF60EA5E ]-[ NI: BVX1 ]-[ TR:  ]-[ BD: https ]-[ BL:  ]-[ CN: Random Person nobody@tor.org ]-[ PL: Tor 0.4.8.6 on Linux ]
+[ HF: A934C9EF8377FB7018518139ABCC990AC8F304F4 ]-[ NI: newbox ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: 0xF1ADC390 Random Tor Node Operator <tor at unterderbruecke (dot) de> bitcoin:15xmQjbQNQpwYLbVCUMdPL2ies4S8kmXNm ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: A989FC5E045C8C119D63BBF9870D7DD3F410AE5B ]-[ NI: loxtest ]-[ TR: obfs4 ]-[ BD: lox ]-[ BL:  ]-[ CN: <office@kraut.space> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: A9A72844947AE6D0F36F5F252A78ED58266E81AF ]-[ NI: bauruine ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: A9A898D2F6D31B6BA200A6EE25E30AD45F39C6C7 ]-[ NI: YourFavouriteBridge ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: <phw@nymity.ch> ]-[ PL: Tor 0.4.8.10 on Linux ]
