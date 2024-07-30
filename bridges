@@ -2147,7 +2147,6 @@
 [ HF: D3DAB9CC0CCDD2035DBE8EF0B1CF94A23FE5BCAE ]-[ NI: bauruine ]-[ TR: webtunnel ]-[ BD:  ]-[ BL:  ]-[ CN: abuse@tuxli.org ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: D3E06B12BFF93DEDAC1B2492DE1C7FDA2A4AAD51 ]-[ NI: tornba ]-[ TR:  ]-[ BD: reserved ]-[ BL:  ]-[ CN: Random TorAdmin <tor 4T soartist d0t net> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: D3E806DEC362BCEAF2D8B8FFFECC865A07657766 ]-[ NI: GrimmW ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: TorOnCampus <toroncampus at uni-goettingen dot de> ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: D3FD12E1BD7024E4635D4C396697E1289A9AE6E9 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: kitknox@protonmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: D40FC4DD2E1FA0136BE053A875608D32B165F078 ]-[ NI: WindAndWaves77B ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: gregb@grotto-networking.com ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: D41AB05B175FB0A4432850209A5610C036CAFC47 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: me (a) inferior.network ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: D47B0639A0753F16F73B0DA9845BAA3AF406FD91 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL: ru distributed=false state=dysfunctional bandwidth=untested ]-[ CN: robmur1000@gmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
