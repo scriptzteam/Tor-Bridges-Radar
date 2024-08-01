@@ -94,7 +94,7 @@
 [ HF: 09E0C46E2D53DFE94BC5F9E167EAE09E565C1444 ]-[ NI: Sr2Bridge1708 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 09F1152BC8233958107231323A4BE50DE3ABC94D ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: lucifabec.jopulalat@rungel.net ]-[ PL: Tor 0.4.7.13 on Linux ]
 [ HF: 09FA4DBE4A5BD82C3F291F05F05F5976F1B695F3 ]-[ NI: Gaspard ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: email:denny.obreham[]a-n-o-n-y-m-e.net url:https://a-n-o-n-y-m-e.net proof:uri-rsa donationurl:https://a-n-o-n-y-m-e.net ciissversion:2 ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: 0A0DAB113AC9E4823BEF248BE04B9C2B68BC5EA2 ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: 0A0DAB113AC9E4823BEF248BE04B9C2B68BC5EA2 ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 0A1D3F6153A57EBD9798D5D09CE42A17B0B83AE6 ]-[ NI: gnampf4i25 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: email:toralf.foerster[]gmx.de url:https://zwiebeltoralf.de/ proof:uri-rsa abuse:abuse[]zwiebeltoralf.de gpg:1A376F994A9D026F13E24DCFC4EACDDE0076E94E ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
 [ HF: 0A35F43EE9A85FFEE3F37AF61F5A5B993CC5A2EE ]-[ NI: FnkB2 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 0A530C1B978F73ED87F7C6AED26B287685879DC6 ]-[ NI: tednolpi ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tednol@gmail.com ]-[ PL: Tor 0.4.8.12 on Linux ]
