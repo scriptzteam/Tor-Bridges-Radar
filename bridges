@@ -1288,7 +1288,6 @@
 [ HF: 7ECDC38DEC61B3C3D169D4A2D7E01E48E6EA5692 ]-[ NI: rmdck ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <tor AT rmdck dot fr> ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 7EDF41EF7D43AB7E2EC2E7877D6C42D3A6E60429 ]-[ NI: FaerieOnion ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 7EE0837037BEB54F68F63480ECAAE50AE487D4C3 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: laserranger@posteo.de ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: 7EF2F8911589B53C1199C6FE888F63819EC624BF ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: address@email.com ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 7EFB002955CA59E2B615C9FF92DC60B13642F689 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 7EFCE80D2A74E66AFBF89BA93583E61EE279EF36 ]-[ NI: eob99 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: tech@emeraldonion.org ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 7F014A4322C7213BE8B4E3993DC74A520BC6365F ]-[ NI: FourtyTwo ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on OpenBSD ]
