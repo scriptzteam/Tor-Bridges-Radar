@@ -884,7 +884,7 @@
 [ HF: 543F3D2B49D713FF4E0E2E8A4350B121B5BFBBE4 ]-[ NI: Unnamed ]-[ TR: obfs3, obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.16 on Linux ]
 [ HF: 546D63CDCF96CFEBCB7229295B4D62023532E5DE ]-[ NI: Sr2Bridge1694 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 54801538DC6843D6CA636FB6B3B989055AA56D52 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.5 on Linux ]
-[ HF: 5481936581E23D2D178105D44DB6915AB06BFB7F ]-[ NI: flakey2 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
+[ HF: 5481936581E23D2D178105D44DB6915AB06BFB7F ]-[ NI: flakey10 ]-[ TR: snowflake ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 548DB979B671552F2E54B324669844A084AEF368 ]-[ NI: IowaNode ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 54CE315DC10BEB6D31B66D04302438F5395268CE ]-[ NI: Terrabl0b ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 55094C90C20BB4CB8F009879EA22B4AEDB19B988 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: martijn.baay+torproject@gmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
