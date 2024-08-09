@@ -931,7 +931,7 @@
 [ HF: 5E4EC84343BF9A0A71D776FD9CBD4EECEAB98F75 ]-[ NI: Piggy ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: hostmaster@tigerw.me.uk ]-[ PL: Tor 0.4.8.8 on Linux ]
 [ HF: 5EF2B197C99A42552553FF40EBDAA63A93E9E3F5 ]-[ NI: glittershy ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: TOR Administrator <tor AT glittershy dot net> ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 5F07C8C573FA3C5B5A1E006614315378B4EF5114 ]-[ NI: weirdrelaytopickbro ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: <hsdd27889dfys89982@protonmail.com> ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: 5F161D2E5713C93F16FEEDD63178E37208AA78DF ]-[ NI: zipfelmuetze1 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: distributed=false ]-[ CN: Felix <zwiebel ta quantentunnel tod de> ]-[ PL: Tor 0.4.8.6 on FreeBSD ]
+[ HF: 5F161D2E5713C93F16FEEDD63178E37208AA78DF ]-[ NI: zipfelmuetze2 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL: distributed=false ]-[ CN: Felix <zwiebel ta quantentunnel tod de> ]-[ PL: Tor 0.4.8.6 on FreeBSD ]
 [ HF: 5F4682FF30E2643FAD3CA2CA6DC658D1EEEE3612 ]-[ NI: Sr2Bridge2025 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 5FDC05E921976C56CDB29166720696132FCAD6A7 ]-[ NI: Sr2Bridge2041 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 602E135E30929D3B9D66A35F3C944B54A94EAB77 ]-[ NI: AbsoluteEvil7 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: tor[dot]relay[dot]edc /at/ danwin1210[dot]de ]-[ PL: Tor 0.4.8.12 on Linux ]
