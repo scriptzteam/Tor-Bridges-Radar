@@ -1629,7 +1629,6 @@
 [ HF: ADF98CADFF3D9B2FB929D5A02DE773166A7AB825 ]-[ NI: Sr2Bridge2045 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: AE0BCFED0248690C3F4753B1842B85C978109A62 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: AE2321D1E15BC528D39B93CC8376A43DF40D463D ]-[ NI: FidonetEMSI ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: <gin@mgupi.org.ru> ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: AE27B1D7FAF45B732C35A4ED166D8E0EA9D74C43 ]-[ NI: WiseWorld ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN: wisekind@wisekind.us ]-[ PL: Tor 0.4.8.10 on OpenBSD ]
 [ HF: AE44D585C933050BBBD2B1D97A99F399A8B7AE4E ]-[ NI: Sr2Bridge2006 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: AE4A87F9BC76690CDE2A7A14EA41C8D80EA9D43C ]-[ NI: aliceinwonderlan ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Paco <paco@cocaine.ninja> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: AE5FA2ED3E3FCB454C699732526317F764F15AB6 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
