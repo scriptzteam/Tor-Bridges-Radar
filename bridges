@@ -179,6 +179,7 @@
 [ HF: 10C4B4B3E307B94862544D542431761944C9FCC8 ]-[ NI: BridgeBox8 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Neel Chauhan <neel AT neelc DOT org> ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
 [ HF: 10CE7DD23CD4AC1839101D3AF9A5BAB5C3FF2A59 ]-[ NI: Sr2Bridge2103 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 10D62C4B430D8A4006121B3B34A86912302D64A1 ]-[ NI: anonadmin851 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: a4947792-abaa-458f-a43c-4ccfd5571c8f@anonaddy.me ]-[ PL: Tor 0.4.8.12 on Linux ]
+[ HF: 10DC81114EB4F2F3B5E51E502DC07257A566AEA9 ]-[ NI: nocensorship2 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: distributed=false ]-[ CN: Klaus Eisentraut <klaus-tor@hohenpoelz.de> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 10DD3476B69904162D03359686C713658D89A9C8 ]-[ NI: gitlab ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 113A82D7A302F8240DF8ED09C5F1592C29B524E1 ]-[ NI: Sr2Bridge2057 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: this used to be sanitised and I did not write the code to populate it yet ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 11662373CC32933C548FE44DE3D47614BEF108CF ]-[ NI: Kroz ]-[ TR:  ]-[ BD: email ]-[ BL:  ]-[ CN: Tom Massey <tomassey AT gmail dot com> ]-[ PL: Tor 0.4.8.12 on Linux ]
