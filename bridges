@@ -1954,7 +1954,7 @@
 [ HF: C8700BC1B357EA72CDA2D1114124697B12A5C693 ]-[ NI: Sr2Bridge2440 ]-[ TR: obfs4 ]-[ BD: none ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: C87FD4E1EAA6DEF294A445619AE9B6846BB60664 ]-[ NI: SkepsBridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: Tor Bridge <tor-bridge AT skeps DOT ch> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: C8805D0A5EBFDC4679F4F8A5058DAE9502EE6DA6 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: codingdodo@protonmail.com ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: C88D3E6B288B49F75D7B47520390FCF1EC3D7E6E ]-[ NI: KingGizzard ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.10 on Linux ]
+[ HF: C88D3E6B288B49F75D7B47520390FCF1EC3D7E6E ]-[ NI: KingGizzard ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: C8906DC86928F80E65C688B9AF411A34CEBEA5D5 ]-[ NI: LokiTorBridge ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <cameron@cameronmilani.com> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: C8B16741D5923CD3FA36131B10B9A8BCF7A90F5F ]-[ NI: Heisenberg3 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Heisenberg@example.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: C8EE705486FF48DAE40F1F8BF82EA955BE31B305 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
