@@ -1860,6 +1860,7 @@
 [ HF: B77A12910F38CA7229FD93D515E2FCD38A539937 ]-[ NI: CSGuardSoleusBridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: 0320c8867fccd45d6a6f7a577ed09773f8929a6e CSGuard <admin AT csguard DOT eu> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: B79ED7A1049164CDA4D2F8525DD57A374B56F7F8 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B7A309D3FDDE4D45B35D20410138425D2E34F059 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
+[ HF: B7B8E3CE0D5697EEC38DA1A7ABA727409EB7E179 ]-[ NI: bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: bridge@unknown.domain ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B7DA5D1B86512963E896CABE198BEA02301D1812 ]-[ NI: lfg04 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: B7DD61923F064045D25DD68B12273B8FFEAF90B7 ]-[ NI: zwiebelfoo1 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: katze@kunfoo.org ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: B7F518DC055E7F47F80B9E4D8E5167602D616D8B ]-[ NI: Sachaufgabe ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
