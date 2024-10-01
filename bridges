@@ -975,6 +975,7 @@
 [ HF: 61995EFEE37EE0AB5BAAB49A046A99FE6D8F6076 ]-[ NI: NeelTorBridge2G ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Neel Chauhan <neel AT neelc DOT org> ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
 [ HF: 619D4A0596723372FF39D58781BB915809C3D70F ]-[ NI: avas ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: torbridge_avas AT manchester DOT gr ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 61D0A7DA803B8040BE6D0BA347BAF10041D90B07 ]-[ NI: XoaseBridge ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL: distributed=true ]-[ CN: email: admin_xoa.se ]-[ PL: Tor 0.4.8.12 on Linux ]
+[ HF: 61F0CFEFCAB378665C52066FF9C680E7904797B6 ]-[ NI: None ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 6203E5E508D88C6946715AB47BBB93610ACAA392 ]-[ NI: PickANickname ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: whyjay@outlook.com ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 62344742D0FDC8ECD42B3DE8EB1C50BD8BFE09D7 ]-[ NI: Tricklname ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: oskar AT oskar MINUS roesler DOT de ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 6236EBB04242D7F54ECC2AE7FDCCB1E48A1018D3 ]-[ NI: OverTroubledWaters3 ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
