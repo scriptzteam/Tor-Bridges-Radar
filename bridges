@@ -1376,6 +1376,7 @@
 [ HF: 8EC01B22FED9BD78F61D752C06267322D5C862F6 ]-[ NI: bridge23 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815 proof:uri-rsa ciissversion:2 ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 8EC9132285AAD3ECB2BF0475948D60DBD4B3A76E ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: torbridge@feta.rocks ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 8EE99D44343CCDDDA7E42F3827DB6B9B3C7A7AA4 ]-[ NI: dermoth1 ]-[ TR:  ]-[ BD: email ]-[ BL: ru ]-[ CN: 0xDE417216 Thomas G.-S. aka dermoth <Google.is.your.friend> ]-[ PL: Tor 0.4.8.12 on Linux ]
+[ HF: 8F0C38DD181972BFD6C552BECC2E1B9626CF79A3 ]-[ NI: CNB55DRY ]-[ TR: obfs4 ]-[ BD:  ]-[ BL: distributed=false ]-[ CN: support@gsistemi.net ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 8F1BD76C1F449674497CE846C73A613FD13A631B ]-[ NI: ididnteditheconfig ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: Random Person nobody@tor.org ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 8F1F2D246051B5642F4EB45FB11A6C6C7B60382A ]-[ NI: Obfs4BridgeCluster ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: torbridge1667@proton.me ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 8F4CBDB8AA745F1072805B63D6BE0BDF2F8D3F3D ]-[ NI: robotor ]-[ TR: obfs4 ]-[ BD: telegram ]-[ BL:  ]-[ CN: robotor ]-[ PL: Tor 0.4.8.11 on Linux ]
