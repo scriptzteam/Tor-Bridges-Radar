@@ -2517,7 +2517,6 @@
 [ HF: FDB4E421F7E3275D09098DFBDCFD7F18A49EFA78 ]-[ NI: Sr2Bridge2727 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: FDCF6EDA83F1E00BD20FB81B70CF1D9FEF0419D5 ]-[ NI: WorldGateBridge2 ]-[ TR: webtunnel ]-[ BD: settings ]-[ BL:  ]-[ CN: worldgate-relays(AT)protonmail[DOT]com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: FE11A8F9555B39556B7C325A71B399F2509160F9 ]-[ NI: lfg10 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: gus@riseup.net ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: FE190D3C45BB847C594E7603356346EC636193BB ]-[ NI: 0xFTG ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: tor.tjkdk [AT] simplelogin *dot* com ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: FE21D89808C6D75FB7F05F3F25B6146BE651CC11 ]-[ NI: rondieBridge16 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: tor@rondie.nl ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: FE270A2A2CA2002A2045F2A76C9501B9699F3C6A ]-[ NI: Unnamed ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: FE2771D44AF823E6F503FEA97E4340624E57F698 ]-[ NI: Malacandra ]-[ TR: webtunnel ]-[ BD: https ]-[ BL:  ]-[ CN: PGP fingerprint: D5F1 208A 3370 7C91 26AD  45CD 02EF 1AB7 30B5 D97B  <tor dot malacandra at proton dot me> ]-[ PL: Tor 0.4.8.12 on OpenBSD ]
