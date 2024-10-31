@@ -160,7 +160,6 @@
 [ HF: 11D5FA18B9631D0B58B804A750CA2DDF807D5DFA ]-[ NI: Bridge1M ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 11FB30BE7E828513756D0DE08E85E4AFEF912956 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: you@example.com ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 1238A10AFD97191D6D9AFE417638F2DC2A71614E ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: 1248C33C488129DD77AB490D14BFFA4481F9F2E0 ]-[ NI: Sr2Bridge2803 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: hello from onionland ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 12645427453D541FD8F8F6802EA09532E0D62CDA ]-[ NI: ElephantBridgeES3 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL:  ]-[ CN: Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] ]-[ PL: Tor 0.4.8.13 on Linux ]
 [ HF: 12667CB9321711E28E682C2D9E45AC43695FBEED ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: scobo@gmx.li ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 1291D14CD44E9190BDDCCFE357B3E50410F4CD86 ]-[ NI: neilosntwrkBR01 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: allumny@yahoo.com ]-[ PL: Tor 0.4.7.10 on Linux ]
