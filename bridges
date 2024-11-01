@@ -1771,7 +1771,6 @@
 [ HF: B523C290FEE13278E4EE8C3641AD86BE4B01BE8E ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B5540D1B5C5A9A88234D04BC0D64D013AE84F485 ]-[ NI: myfirsttesttornode ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: letmehide@first.com ]-[ PL: Tor 0.4.8.13 on Linux ]
 [ HF: B56A334759CCA7E4B4321C4BDC50376F78F0F783 ]-[ NI: Unnamed ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.12 on Linux ]
-[ HF: B5CD5728A0380E8F0EC7F05EC61E33FA8D8CA1CF ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: you@example.com ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: B5E0A42D9DD5AB99088C22D50B07E9F3FF071DF0 ]-[ NI: ForPrivacyNETbr02 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
 [ HF: B5FAB1EB4BC9D0BC7945DC74927AB838FED0124C ]-[ NI: IACaIw ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: beehiiv.47ph3@passmail.net ]-[ PL: Tor 0.4.8.12 on Windows 8 [or later] ]
 [ HF: B613E422347FF98EE1BB0373628D568C36918307 ]-[ NI: CashewFighter ]-[ TR: obfs4 ]-[ BD: reserved ]-[ BL:  ]-[ CN: badgerfighter at proton dot me ]-[ PL: Tor 0.4.8.12 on Linux ]
