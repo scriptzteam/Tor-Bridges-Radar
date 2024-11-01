@@ -155,7 +155,6 @@
 [ HF: 11823662A38F238E82DCEB9564ADDCD6972B56AD ]-[ NI: ElephantBridgeUS2 ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL: ru ]-[ CN: Tor(dot)ElephantsHaveLongTrunks(at)hotmail(dot)com [tor-relay.co] ]-[ PL: Tor 0.4.8.13 on Linux ]
 [ HF: 118EC9539E2791D71E1F6805E0D84B993F2A12DE ]-[ NI: NeelTorBridge2D ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN: Neel Chauhan <neel AT neelc DOT org> ]-[ PL: Tor 0.4.8.10 on FreeBSD ]
 [ HF: 11A7ACA55E2F272E8EC7FA9978C50FD7BAA2AD4B ]-[ NI: Carlo ]-[ TR: obfs4 ]-[ BD: moat ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.13 on OpenBSD ]
-[ HF: 11B27FF935E0AE5DA7D4F8D36CAF7915DAAC2079 ]-[ NI: OneWay ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: it@mnet-online.de ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 11D4AD56043BBAF7666C6ED5A3628140EAFFFEC8 ]-[ NI: JustDoingMyBit78 ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: <address@email.com> ]-[ PL: Tor 0.4.7.10 on Linux ]
 [ HF: 11D5FA18B9631D0B58B804A750CA2DDF807D5DFA ]-[ NI: Bridge1M ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: torrelaysaregreat@gmail.com xmr:84czj1u2Q4dJ7bzf41TyDFS1i1GPKX5DQGgqZFg85LFge7LLUpCvEMyfjDfAnsZv291gtyMqUsTmxZojB7cRVckyUuih9ar ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 11FB30BE7E828513756D0DE08E85E4AFEF912956 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: you@example.com ]-[ PL: Tor 0.4.8.12 on Linux ]
