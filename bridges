@@ -494,7 +494,6 @@
 [ HF: 312910E6736C86122D5D0FD8F0042F63AA3EE017 ]-[ NI: ForPrivacyNETbr27 ]-[ TR: obfs4 ]-[ BD: https ]-[ BL:  ]-[ CN: email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF514943B94 keybase:boldsuck mastodon:https://mastodon.social/@boldsuck xmr:donate.for-privacy.net ciissversion:2 ]-[ PL: Tor 0.4.9.0-alpha-dev on Linux ]
 [ HF: 3135C525E4A8A6BFCFBE094F93FB13757B9093E0 ]-[ NI: BigMacMeal ]-[ TR:  ]-[ BD: settings ]-[ BL:  ]-[ CN: <nobody@example.com> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 313C853961596187CFD5E420AFD6F2ABF1666251 ]-[ NI: plhkBridge01 ]-[ TR: obfs4 ]-[ BD: email ]-[ BL: ru ]-[ CN: <plhk@sdf.org> ]-[ PL: Tor 0.4.8.10 on Linux ]
-[ HF: 31593C3C49E5D26A875E22DB9B2C291B8961BC03 ]-[ NI: mgrid ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: Random Person <nobody AT example dot com> ]-[ PL: Tor 0.4.8.12 on Linux ]
 [ HF: 315F5A3C110F42DAE84E0513DDB1B85287647B69 ]-[ NI: ki ]-[ TR:  ]-[ BD:  ]-[ BL:  ]-[ CN:  ]-[ PL: Tor 0.4.8.11 on Linux ]
 [ HF: 31D3A50042AFFC67CFF40EA8695A93E951EB2C10 ]-[ NI: BlueCopperDevTin ]-[ TR: obfs4 ]-[ BD:  ]-[ BL:  ]-[ CN: root@guardianproject.info ]-[ PL: Tor 0.4.8.10 on Linux ]
 [ HF: 31E501220AD29380439CDC65A58787D20EE955C0 ]-[ NI: DockerObfs4Bridge ]-[ TR: obfs4 ]-[ BD: settings ]-[ BL:  ]-[ CN: noone@nowhere.com ]-[ PL: Tor 0.4.8.12 on Linux ]
